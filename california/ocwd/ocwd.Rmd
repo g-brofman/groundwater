@@ -1,0 +1,40 @@
+---
+title: "ocwd"
+author: "Grace Brofman"
+date: "8/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+
+ocwd_data <- read_csv("ocwd_gw_use.csv") %>% 
+  group_by(water_year) %>% 
+  mutate(water_use_sum = sum(gw_use_af + in_lieu_af))
+
+ggplot(data = ocwd_data,
+       aes(x = water_year,
+           y = gw_use_af)) + 
+  geom_line() +
+  geom_line(data = ocwd_data,
+            aes(x = water_year,
+                y = water_use_sum),
+            color = "blue")  +
+  geom_line(data = ocwd_data,
+            aes(x = water_year,
+                y = in_lieu_af),
+            color = "green2")
+  
+
+
+```
+
