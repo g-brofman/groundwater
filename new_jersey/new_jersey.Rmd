@@ -1,0 +1,66 @@
+---
+title: "new_jersey"
+author: "Grace Brofman"
+date: "8/19/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+nj_gw <- read_csv("new_jersey.csv") %>% 
+  clean_names() %>% 
+  filter(g_wor_sw == "GW" | g_wor_sw == "SG") #filtered for groundwater or surface/groundwater. surface/groundwater (SG) represents only ~2.5% of observations. leaving surface/groundwater for now becuase site type column specifies "intake pipe (ground water)"
+
+#reformatting to longer
+nj_gw_long <- nj_gw %>% 
+  pivot_longer(14:39,      #colums to combine
+               names_to = "year",  #name of new column
+               names_prefix = "x", #removes "x" before each year
+               values_drop_na = TRUE) %>% #drops na values
+rename(amount_mgd = value,
+       gw_or_mixed = g_wor_sw) %>% 
+  select(-permit_type)
+
+#reclassify huc14 and huc11 as character as opposed to numeric
+nj_gw_long$huc14 <- as.character(nj_gw_long$huc14)
+nj_gw_long$huc11 <- as.character(nj_gw_long$huc11)
+
+
+#grouping by huc14 and year - huc14 is a more specific classification than huc11. each huc11 contains multiple huc14 classes. keeping unkown huc14 (given code 0) for now.
+
+nj_huc14 <- nj_gw_long %>% 
+  group_by(huc14, year) %>% 
+  summarize(annual_use_mgd = sum(amount_mgd)) #naming new column 
+
+#graphing time series per huc14 number
+ggplot(nj_huc14,
+       aes(x = year,
+           y = annual_use_mgd)) +
+  geom_line(aes(color = huc14)) +
+  theme(legend.position = "none")
+
+nj_huc14$year <- as.numeric(nj_huc14$year)
+
+#statewide data
+nj_gw_state <- nj_huc14 %>% 
+  group_by(year) %>% 
+  summarize(annual_use_mgd = sum(annual_use_mgd))
+
+#graphing statewide time series
+ggplot(nj_gw_state,
+       aes(x = year,
+           y = annual_use_mgd)) +
+  geom_line() +
+  scale_y_continuous(limits = c(150000, 260000))
+
+
+```
+
