@@ -1,0 +1,53 @@
+---
+title: "pennsylvania"
+author: "Grace Brofman"
+date: "8/19/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+ 
+penn_data <- read_csv("pennsylvania.csv") %>% 
+  clean_names() 
+
+#removing monthly data
+penn_data_annual <- penn_data %>% 
+  select(-(19:50)) %>% 
+  select(-(19:50)) %>% 
+  select(-(19:26)) %>% 
+  select(-(22:32)) %>% 
+  select(-(1:10))
+
+penn_data_annual[is.na(penn_data_annual)] = 0
+
+#data can be sorted by basin, subbasin, watershed, huc classifications, county, etc.
+#I'll sort by basin for now.
+
+penn_basin <- penn_data_annual %>% 
+  group_by(basin, report_year) %>% 
+  summarize(annual_use_gallons = sum(annual_water_use))
+
+#statewide data
+penn_state <- penn_basin %>% 
+  group_by(report_year) %>% 
+  summarize(annual_use_gallons = sum(annual_use_gallons)) %>% 
+  mutate(annual_use_million_gallons = annual_use_gallons / 1000000)
+
+ggplot(penn_state,
+       aes(x = report_year,
+           y = annual_use_million_gallons)) +
+  geom_line() + 
+  scale_y_continuous(limits = c(50000,145000))
+
+
+
+```
+
