@@ -1,0 +1,84 @@
+---
+title: "minnesota"
+author: "Grace Brofman"
+date: "8/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+
+minnesota_gw <- read_csv("minnesota.csv") %>% 
+  clean_names() %>% 
+  filter(resource_category == "Groundwater") %>% 
+  select(17:50) %>% 
+  select(-watershed_major, -resource_type, -resource_name, -watershed_name, -well_number, -well_depth_ft, -resource_number, -aquifer, -aquifer_category)
+
+
+mn_gw_long <- minnesota_gw %>% 
+  pivot_longer(7:25,    # formerly 1 column/year, changed to 1 colum for use with year specified in new column
+               names_to = "year",      # name of new column
+               names_prefix = NULL,
+               values_drop_na = TRUE) %>%  # removes n/a values
+  rename(use_mg = value)        # renamed value column to use_mg (million gallons)
+
+
+
+# renaming cells in the year column to just numbers
+
+mn_gw_long$year <- gsub("use_2018_mg", "2018", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2017_mg", "2017", mn_gw_long$year)
+mn_gw_long$year <- gsub("use_2016_mg", "2016", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2015_mg", "2015", mn_gw_long$year)  
+mn_gw_long$year <- gsub("use_2014_mg", "2014", mn_gw_long$year)
+mn_gw_long$year <- gsub("use_2013_mg", "2013", mn_gw_long$year)
+mn_gw_long$year <- gsub("use_2012_mg", "2012", mn_gw_long$year)
+mn_gw_long$year <- gsub("use_2011_mg", "2011", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2010_mg", "2010", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2009_mg", "2009", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2008_mg", "2008", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2007_mg", "2007", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2006_mg", "2006", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2005_mg", "2005", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2004_mg", "2004", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2003_mg", "2003", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2002_mg", "2002", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2001_mg", "2001", mn_gw_long$year) 
+mn_gw_long$year <- gsub("use_2000_mg", "2000", mn_gw_long$year) 
+
+
+# grouping by county and year
+mn_gw_county <- mn_gw_long %>% 
+  group_by(county_name, year) %>% 
+  summarize(annual_use = sum(use_mg))
+  
+#graphing time series per county
+ggplot(mn_gw_county,
+       aes(x = year,
+           y = annual_use)) +
+  geom_line(aes(color = county_name)) +
+  theme(legend.position = "none")
+
+mn_gw_county$year <- as.numeric(mn_gw_county$year) #reclassified from character to numeric
+
+#statewide data
+mn_gw_state <- mn_gw_county %>% 
+  group_by(year) %>% 
+  summarize(annual_use_mg = sum(annual_use))
+
+#graphing statewide time series
+ggplot(mn_gw_state,
+       aes(x = year,
+           y = annual_use_mg)) +
+  geom_line() +
+  scale_y_continuous(limits = c(0,320000)) 
+```
+
