@@ -1,0 +1,60 @@
+---
+title: "oklahoma"
+author: "Grace Brofman"
+date: "8/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+oklahoma_data <- read_csv("oklahoma.csv") %>% 
+  clean_names() 
+
+oklahoma_gw <- oklahoma_data %>% 
+  select(-(6:14)) %>% 
+  filter(water_type == "GW") %>% 
+  rename(annual_use_af = total_amount)
+
+```
+
+```{r}
+#county-wide visualization
+#grouping by county and year
+
+ok_gw_county <- oklahoma_gw %>% 
+  group_by(county,year) %>% 
+  summarize(annual_use_af = sum(annual_use_af))
+
+#time series
+ggplot(ok_gw_county,
+       aes(x = year,
+           y = annual_use_af,
+           color = county)) +
+  theme(legend.position = "none")
+```
+
+```{r}
+#statewide visualization
+ok_gw_state <- ok_gw_county %>% 
+  group_by(year) %>% 
+  summarize(annual_use_af = sum(annual_use_af))
+
+#time series
+ggplot(ok_gw_state,
+       aes(x = year,
+           y = annual_use_af)) +
+  geom_line() +
+  scale_y_log10()
+
+#data is probably not reliable - see email from Chrystal Krittenbrink re: data 
+
+```
+
