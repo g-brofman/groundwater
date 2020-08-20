@@ -1,0 +1,43 @@
+---
+title: "arizona_ama"
+author: "Grace Brofman"
+date: "8/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+ama <- read_csv("ama.csv") %>% 
+  clean_names()
+
+ama_sorted <- ama %>% 
+  group_by(ama, year) %>% 
+  summarize(annual_use = sum(quantity))
+
+#time series for individual AMAs
+ggplot(ama_sorted,
+       aes(x = year,
+           y = annual_use,
+           color = ama)) +
+  geom_line()
+
+
+#time series for all AMAs combined
+ama_combined <- ama_sorted %>% 
+  group_by(year) %>% 
+  summarize(annual_use = sum(annual_use))
+
+ggplot(ama_combined,
+       aes(x = year,
+           y = annual_use)) +
+  geom_line()
+```
+
