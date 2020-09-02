@@ -1,0 +1,90 @@
+---
+title: "alabama"
+author: "Grace Brofman"
+date: "8/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+alabama_raw <- read_csv("alabama.csv") %>% 
+  clean_names()
+
+alabama <- alabama_raw %>% 
+  filter(year_county_category != "Irrigation") %>% #filtering out categories using "!="
+  filter(year_county_category != "Public") %>% 
+  filter(year_county_category != "NonPublic") %>% 
+  filter(year_county_category != "1993") %>% 
+  filter(year_county_category != "1994") %>% 
+  filter(year_county_category != "1995") %>% 
+  filter(year_county_category != "1996") %>% 
+  filter(year_county_category != "1997") %>% 
+  filter(year_county_category != "1998") %>% 
+  filter(year_county_category != "1999") %>% 
+  filter(year_county_category != "2000") %>% 
+  filter(year_county_category != "2001") %>% 
+  filter(year_county_category != "2002") %>% 
+  filter(year_county_category != "2003") %>% 
+  filter(year_county_category != "2004") %>% 
+  filter(year_county_category != "2005") %>% 
+  filter(year_county_category != "2006") %>% 
+  filter(year_county_category != "2007") %>% 
+  filter(year_county_category != "2008") %>% 
+  filter(year_county_category != "2009") %>% 
+  filter(year_county_category != "2010") %>% 
+  filter(year_county_category != "2011") %>% 
+  filter(year_county_category != "2012") %>% 
+  filter(year_county_category != "2013") %>% 
+  filter(year_county_category != "2014") %>% 
+  filter(year_county_category != "2015") %>% 
+  filter(year_county_category != "2016") %>% 
+  filter(year_county_category != "2017") %>% 
+  filter(year_county_category != "2018") %>% 
+  rename(county = year_county_category)
+  
+  alabama$annual_total <- gsub("-", "0", alabama$annual_total)  #replacing "-" with "0"
+  alabama$annual_total <- as.numeric(alabama$annual_total) #changing from character to numeric
+  
+
+
+
+```
+
+```{r}
+#county-wide data
+
+alabama_county <- alabama %>% 
+  group_by(county, year) %>% 
+  summarize(annual_total = sum(annual_total))
+#annual_total column in in millions of gallons (not millions of gallons per day). Individual monthly volumes are in MGD.
+
+ggplot(alabama_county,
+       aes(x = year,
+           y = annual_total)) +
+  geom_line(aes(color = county)) +
+  theme(legend.position = "none")
+
+```
+ 
+```{r}
+#state-wide data
+
+alabama_state <- alabama_county %>% 
+  group_by(year) %>% 
+  summarize(annual_total_mg = sum(annual_total))
+
+ggplot(alabama_state,
+       aes(x = year,
+           y = annual_total_mg)) + 
+  geom_line()
+
+```
+
