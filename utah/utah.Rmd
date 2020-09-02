@@ -1,0 +1,62 @@
+---
+title: "utah"
+author: "Grace Brofman"
+date: "8/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+# (use amounts are in acre-feet!)
+# "utah_monthly.csv" has monthly withdrawal amounts as well as coordinates for well sites
+
+utah_raw <- read_csv("utah_use_me.csv") %>% 
+  clean_names()
+utah_raw[is.na(utah_raw)] = 0
+
+utah <- utah_raw %>% 
+  select(-(8:15)) %>% 
+  select(-(15:26)) 
+utah[is.na(utah)] = 0
+
+#county-wide data
+utah_county <- utah %>% 
+  group_by(county, history_year) %>% 
+  summarize(use_af = sum(total_use))
+
+ggplot(utah_county,
+       aes(x = history_year,
+           y = use_af)) +
+  geom_line(aes(color = county))
+
+#2 extremely high observations from Weber County in 2006 and Box Elder County in 2014. Filtering out these two observations 
+
+utah_county_filtered <- utah_county %>% 
+  filter(use_af < 26000000)
+
+ggplot(utah_county_filtered,
+       aes(x = history_year,
+           y = use_af)) +
+  geom_line(aes(color = county)) +
+  theme(legend.position = "none")
+
+
+# state-wide data (using filtered county level data)
+utah_state <- utah_county_filtered %>% 
+  group_by(history_year) %>% 
+  summarize(use_af = sum(use_af))
+
+ggplot(utah_state,
+       aes(x = history_year,
+           y = use_af)) +
+  geom_line()
+```
+
