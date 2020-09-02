@@ -1,0 +1,105 @@
+---
+title: "north_dakota"
+author: "Grace Brofman"
+date: "8/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+
+
+#(2010-2019 data. 1977-2019 is further down)
+nd_look <- read_csv("north_dakota.csv")
+north_dakota <- read_csv("north_dakota.csv") %>% 
+  clean_names() %>% 
+  select(-acres) %>% 
+  filter(!grepl('Acre Feet', acre_feet)) #!grepl excludes all 'Acre Feet' observations from acre_feet column
+
+north_dakota <- north_dakota %>% 
+  rename(basin_name = apple_creek)
+
+north_dakota <- north_dakota %>% 
+  rename(use_type = industrial)
+
+north_dakota$acre_feet <- as.numeric(north_dakota$acre_feet) #changing from classifying as character to numeric
+
+
+# grouping by basin
+nd_basin <- north_dakota %>% 
+  group_by(basin_name, year) %>% 
+  summarize(use_af = sum(acre_feet))
+
+ggplot(nd_basin,
+       aes(x = year,
+           y = use_af)) +
+  geom_line(aes(color = basin_name)) +
+  theme(legend.position = "none")
+
+# statewide data
+nd_state <- nd_basin %>% 
+  group_by(year) %>% 
+  summarize(use_af = sum(use_af))
+
+ggplot(nd_state,
+       aes(x = year,
+           y = use_af)) +
+  geom_point()
+```
+1977-2019 data
+
+```{r}
+nd_2 <- read_csv("north_dakota_2.csv") %>% 
+    clean_names() %>% 
+  select(-acres) %>% 
+  filter(!grepl('Acre Feet', acre_feet)) %>% 
+  select(-(5:7))
+
+nd_2 <- nd_2 %>% 
+  rename(basin_name = apple_creek)
+
+nd_2 <- nd_2 %>% 
+  rename(use_type = domestic)
+
+nd_2$acre_feet <- as.numeric(nd_2$acre_feet) #changing from classifying as character to numeric
+nd_2$year <- as.numeric(nd_2$year)
+
+# grouping by basin
+nd_2_basin <- nd_2 %>% 
+  group_by(basin_name, year) %>% 
+  summarize(use_af = sum(acre_feet))
+
+ggplot(nd_2_basin,
+       aes(x = year,
+           y = use_af)) +
+  geom_line(aes(color = basin_name)) +
+  theme(legend.position = "none")
+
+# statewide data
+nd_2_state <- nd_2_basin %>% 
+  group_by(year) %>% 
+  summarize(use_af = sum(use_af))
+
+ggplot(nd_2_state,
+       aes(x = year,
+           y = use_af)) +
+  geom_line()
+
+
+```
+```{r}
+nd_2_domestic <- nd_2 %>% 
+  filter(use_type == "Domestic")
+# only 203 domestic observations. should i remove domestic?
+```
+
