@@ -1,0 +1,42 @@
+---
+title: "michigan"
+author: "Grace Brofman"
+date: "9/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(tidyr)
+library(dplyr)
+
+michigan_data <- read_csv("michigan.csv") %>% 
+  clean_names()
+
+michigan <- michigan_data %>% 
+  select(county, gallons_from_groundwater, year)
+
+#county-specific time series
+ggplot(data = michigan,
+       aes(x = year,
+           y = gallons_from_groundwater)) +
+  geom_line(aes(color = county)) +
+  theme(legend.position = "none")
+
+#state-wide data
+michigan_state <- michigan %>% 
+  group_by(year) %>% 
+  summarize(annual_total_gallons = sum(gallons_from_groundwater))
+
+ggplot(data = michigan_state,
+       aes(x = year,
+           y = annual_total_gallons)) +
+  geom_line()
+
+```
+
