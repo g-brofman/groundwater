@@ -1,0 +1,1520 @@
+"","basin_name","use_type","year","acre_feet"
+"1","Apple Creek","Industrial","2019",454.5
+"2","Apple Creek","Industrial","2018",20.6
+"3","Apple Creek","Industrial","2017",20.9
+"4","Apple Creek","Industrial","2016",21.8
+"5","Apple Creek","Industrial","2015",41.5
+"6","Apple Creek","Industrial","2014",64.9
+"7","Apple Creek","Industrial","2013",76.2
+"8","Apple Creek","Industrial","2012",75
+"9","Apple Creek","Industrial","2011",69
+"10","Apple Creek","Industrial","2010",87.6
+"11","Apple Creek","Irrigation","2019",9137.1
+"12","Apple Creek","Irrigation","2018",20381
+"13","Apple Creek","Irrigation","2017",28137.4
+"14","Apple Creek","Irrigation","2016",21686.8
+"15","Apple Creek","Irrigation","2015",22364.8
+"16","Apple Creek","Irrigation","2014",20599.6
+"17","Apple Creek","Irrigation","2013",28582.6
+"18","Apple Creek","Irrigation","2012",22605.8
+"19","Apple Creek","Irrigation","2011",13673.8
+"20","Apple Creek","Irrigation","2010",19388
+"21","Apple Creek","Municipal","2019",257.9
+"22","Apple Creek","Municipal","2018",269.5
+"23","Apple Creek","Municipal","2017",289.3
+"24","Apple Creek","Municipal","2016",281.4
+"25","Apple Creek","Municipal","2015",307.8
+"26","Apple Creek","Municipal","2014",331.9
+"27","Apple Creek","Municipal","2013",330.4
+"28","Apple Creek","Municipal","2012",302.9
+"29","Apple Creek","Municipal","2011",294.6
+"30","Apple Creek","Municipal","2010",327.7
+"31","Apple Creek","Rural Water","2019",4.3
+"32","Apple Creek","Rural Water","2018",4.3
+"33","Apple Creek","Rural Water","2017",4.3
+"34","Apple Creek","Rural Water","2016",4.3
+"35","Apple Creek","Rural Water","2015",4.3
+"36","Apple Creek","Rural Water","2014",4.2
+"37","Apple Creek","Rural Water","2013",4.1
+"38","Apple Creek","Rural Water","2012",4.2
+"39","Apple Creek","Rural Water","2011",4.3
+"40","Apple Creek","Rural Water","2010",4.3
+"41","Beaver","Industrial","2019",4.7
+"42","Beaver","Industrial","2018",4.6
+"43","Beaver","Industrial","2017",4.3
+"44","Beaver","Industrial","2016",3.4
+"45","Beaver","Industrial","2015",3.6
+"46","Beaver","Industrial","2014",2.3
+"47","Beaver","Industrial","2013",1.6
+"48","Beaver","Industrial","2012",1.7
+"49","Beaver","Industrial","2011",0.8
+"50","Beaver","Industrial","2010",0.5
+"51","Beaver","Irrigation","2019",222.8
+"52","Beaver","Irrigation","2018",913.6
+"53","Beaver","Irrigation","2017",1035.9
+"54","Beaver","Irrigation","2016",720.5
+"55","Beaver","Irrigation","2015",737.9
+"56","Beaver","Irrigation","2014",567.4
+"57","Beaver","Irrigation","2013",965.8
+"58","Beaver","Irrigation","2012",1072.5
+"59","Beaver","Irrigation","2011",471.6
+"60","Beaver","Irrigation","2010",552.1
+"61","Beaver","Municipal","2019",138.9
+"62","Beaver","Municipal","2018",138.4
+"63","Beaver","Municipal","2017",128.3
+"64","Beaver","Municipal","2016",103.6
+"65","Beaver","Municipal","2015",138.2
+"66","Beaver","Municipal","2014",169.4
+"67","Beaver","Municipal","2013",222
+"68","Beaver","Municipal","2012",255.9
+"69","Beaver","Municipal","2011",338
+"70","Beaver","Municipal","2010",350.9
+"71","Beaver","Rural Water","2019",0.1
+"72","Beaver","Rural Water","2018",0.1
+"73","Beaver","Rural Water","2017",0.1
+"74","Beaver","Rural Water","2016",0.2
+"75","Beaver","Rural Water","2015",0.2
+"76","Beaver","Rural Water","2014",0.8
+"77","Beaver","Rural Water","2013",0.8
+"78","Beaver","Rural Water","2012",1
+"79","Beaver","Rural Water","2011",1
+"80","Beaver","Rural Water","2010",0.7
+"81","Bois De Sioux","Industrial","2019",60.4
+"82","Bois De Sioux","Industrial","2018",56.8
+"83","Bois De Sioux","Industrial","2017",57.4
+"84","Bois De Sioux","Industrial","2016",55.5
+"85","Bois De Sioux","Industrial","2014",70.3
+"86","Bois De Sioux","Industrial","2013",57.5
+"87","Bois De Sioux","Industrial","2012",61.1
+"88","Bois De Sioux","Industrial","2011",41.1
+"89","Bois De Sioux","Industrial","2010",39.6
+"90","Bois De Sioux","Irrigation","2019",0
+"91","Bois De Sioux","Irrigation","2018",5.8
+"92","Bois De Sioux","Irrigation","2017",35.2
+"93","Bois De Sioux","Irrigation","2016",60.2
+"94","Bois De Sioux","Irrigation","2015",67
+"95","Bois De Sioux","Irrigation","2014",51.4
+"96","Bois De Sioux","Irrigation","2013",66.4
+"97","Bois De Sioux","Irrigation","2012",72.6
+"98","Bois De Sioux","Municipal","2019",30.9
+"99","Bois De Sioux","Municipal","2018",33.1
+"100","Bois De Sioux","Municipal","2017",36.8
+"101","Bois De Sioux","Municipal","2016",42.4
+"102","Bois De Sioux","Municipal","2015",40.2
+"103","Bois De Sioux","Municipal","2014",32.1
+"104","Bois De Sioux","Municipal","2013",38.3
+"105","Bois De Sioux","Municipal","2012",34.7
+"106","Bois De Sioux","Municipal","2011",33.2
+"107","Bois De Sioux","Municipal","2010",32.6
+"108","Brush Lake Closed Basin","Industrial","2019",10.1
+"109","Brush Lake Closed Basin","Industrial","2018",20.4
+"110","Brush Lake Closed Basin","Industrial","2017",16.1
+"111","Brush Lake Closed Basin","Industrial","2016",69.5
+"112","Brush Lake Closed Basin","Industrial","2015",106.2
+"113","Brush Lake Closed Basin","Industrial","2014",147.1
+"114","Brush Lake Closed Basin","Industrial","2013",217.5
+"115","Brush Lake Closed Basin","Industrial","2012",179
+"116","Brush Lake Closed Basin","Industrial","2011",117.4
+"117","Brush Lake Closed Basin","Industrial","2010",10.9
+"118","Brush Lake Closed Basin","Irrigation","2019",1351.8
+"119","Brush Lake Closed Basin","Irrigation","2018",1682.3
+"120","Brush Lake Closed Basin","Irrigation","2017",2500.7
+"121","Brush Lake Closed Basin","Irrigation","2016",1798.8
+"122","Brush Lake Closed Basin","Irrigation","2015",1481.2
+"123","Brush Lake Closed Basin","Irrigation","2014",1654
+"124","Brush Lake Closed Basin","Irrigation","2013",1320.7
+"125","Brush Lake Closed Basin","Irrigation","2012",1691
+"126","Brush Lake Closed Basin","Irrigation","2011",1657.4
+"127","Brush Lake Closed Basin","Irrigation","2010",1931.1
+"128","Brush Lake Closed Basin","Municipal","2019",38.2
+"129","Brush Lake Closed Basin","Municipal","2018",35.5
+"130","Brush Lake Closed Basin","Municipal","2017",44.4
+"131","Brush Lake Closed Basin","Municipal","2016",7.8
+"132","Brush Lake Closed Basin","Municipal","2015",9.3
+"133","Brush Lake Closed Basin","Municipal","2014",19.6
+"134","Brush Lake Closed Basin","Municipal","2013",26.6
+"135","Brush Lake Closed Basin","Municipal","2012",39.3
+"136","Brush Lake Closed Basin","Municipal","2011",22.1
+"137","Brush Lake Closed Basin","Municipal","2010",27.1
+"138","Cedar","Industrial","2015",0
+"139","Cedar","Industrial","2014",0
+"140","Cedar","Industrial","2013",0
+"141","Cedar","Industrial","2012",0
+"142","Cedar","Industrial","2011",0
+"143","Cedar","Industrial","2010",0
+"144","Charlie-Little Muddy","Industrial","2019",91.4
+"145","Charlie-Little Muddy","Industrial","2018",118.3
+"146","Charlie-Little Muddy","Industrial","2017",119.8
+"147","Charlie-Little Muddy","Industrial","2016",133.8
+"148","Charlie-Little Muddy","Industrial","2015",164.8
+"149","Charlie-Little Muddy","Industrial","2014",113.6
+"150","Charlie-Little Muddy","Industrial","2013",11.1
+"151","Charlie-Little Muddy","Industrial","2012",7.6
+"152","Charlie-Little Muddy","Industrial","2011",0.8
+"153","Charlie-Little Muddy","Industrial","2010",0.8
+"154","Charlie-Little Muddy","Irrigation","2019",0
+"155","Charlie-Little Muddy","Irrigation","2018",0
+"156","Charlie-Little Muddy","Irrigation","2017",0
+"157","Charlie-Little Muddy","Irrigation","2016",0
+"158","Charlie-Little Muddy","Irrigation","2015",0
+"159","Charlie-Little Muddy","Irrigation","2014",0
+"160","Charlie-Little Muddy","Irrigation","2013",0
+"161","Charlie-Little Muddy","Irrigation","2012",0
+"162","Charlie-Little Muddy","Irrigation","2011",0
+"163","Charlie-Little Muddy","Irrigation","2010",0
+"164","Deep","Industrial","2019",264.4
+"165","Deep","Industrial","2018",156
+"166","Deep","Industrial","2017",213.6
+"167","Deep","Industrial","2016",315.9
+"168","Deep","Industrial","2015",394
+"169","Deep","Industrial","2014",315.4
+"170","Deep","Industrial","2013",344.8
+"171","Deep","Industrial","2012",529.1
+"172","Deep","Industrial","2011",546.2
+"173","Deep","Industrial","2010",469.7
+"174","Deep","Irrigation","2019",1.5
+"175","Deep","Irrigation","2018",0.1
+"176","Deep","Irrigation","2017",2.9
+"177","Deep","Irrigation","2016",2.7
+"178","Deep","Irrigation","2015",3.5
+"179","Deep","Irrigation","2014",2.7
+"180","Deep","Irrigation","2013",3
+"181","Deep","Irrigation","2012",4.4
+"182","Deep","Irrigation","2011",2.2
+"183","Deep","Irrigation","2010",3.1
+"184","Deep","Municipal","2019",1.6
+"185","Deep","Municipal","2018",1.6
+"186","Deep","Municipal","2017",0.1
+"187","Deep","Municipal","2016",5.8
+"188","Deep","Municipal","2015",13.1
+"189","Deep","Municipal","2014",12.4
+"190","Deep","Municipal","2013",13
+"191","Deep","Municipal","2012",11.8
+"192","Deep","Municipal","2011",94.5
+"193","Deep","Municipal","2010",114.4
+"194","Deep","Rural Water","2019",0
+"195","Deep","Rural Water","2018",0
+"196","Deep","Rural Water","2017",0
+"197","Deep","Rural Water","2016",0
+"198","Deep","Rural Water","2015",0
+"199","Deep","Rural Water","2014",0
+"200","Deep","Rural Water","2013",86.7
+"201","Deep","Rural Water","2012",86
+"202","Deep","Rural Water","2011",80.8
+"203","Deep","Rural Water","2010",84.4
+"204","Des Lacs","Industrial","2019",19.3
+"205","Des Lacs","Industrial","2018",28.4
+"206","Des Lacs","Industrial","2017",38.2
+"207","Des Lacs","Industrial","2016",27.7
+"208","Des Lacs","Industrial","2015",15.4
+"209","Des Lacs","Industrial","2014",17.2
+"210","Des Lacs","Industrial","2013",5.1
+"211","Des Lacs","Industrial","2012",157.4
+"212","Des Lacs","Industrial","2011",107.7
+"213","Des Lacs","Industrial","2010",77.1
+"214","Des Lacs","Irrigation","2012",48.7
+"215","Des Lacs","Irrigation","2011",48.8
+"216","Des Lacs","Irrigation","2010",48.7
+"217","Des Lacs","Municipal","2019",33.5
+"218","Des Lacs","Municipal","2018",50.8
+"219","Des Lacs","Municipal","2017",36.1
+"220","Des Lacs","Municipal","2016",36.3
+"221","Des Lacs","Municipal","2015",38.9
+"222","Des Lacs","Municipal","2014",39
+"223","Des Lacs","Municipal","2013",35.8
+"224","Des Lacs","Municipal","2012",112.9
+"225","Des Lacs","Municipal","2011",51
+"226","Des Lacs","Municipal","2010",62.6
+"227","Des Lacs","Rural Water","2019",102.9
+"228","Des Lacs","Rural Water","2018",240.7
+"229","Des Lacs","Rural Water","2017",218.4
+"230","Des Lacs","Rural Water","2016",185.3
+"231","Des Lacs","Rural Water","2015",197.4
+"232","Des Lacs","Rural Water","2014",184.2
+"233","Des Lacs","Rural Water","2013",200.3
+"234","Des Lacs","Rural Water","2012",117.2
+"235","Des Lacs","Rural Water","2011",119.4
+"236","Des Lacs","Rural Water","2010",112.2
+"237","Devils Lake","Industrial","2016",0
+"238","Devils Lake","Industrial","2015",0
+"239","Devils Lake","Industrial","2014",0
+"240","Devils Lake","Industrial","2013",0
+"241","Devils Lake","Industrial","2012",0
+"242","Devils Lake","Industrial","2011",0
+"243","Devils Lake","Industrial","2010",0
+"244","Devils Lake","Irrigation","2019",684.3
+"245","Devils Lake","Irrigation","2018",780.3
+"246","Devils Lake","Irrigation","2017",908.1
+"247","Devils Lake","Irrigation","2016",264.1
+"248","Devils Lake","Irrigation","2015",422.1
+"249","Devils Lake","Irrigation","2014",605.7
+"250","Devils Lake","Irrigation","2013",937.9
+"251","Devils Lake","Irrigation","2012",733.5
+"252","Devils Lake","Irrigation","2011",568.7
+"253","Devils Lake","Irrigation","2010",888.2
+"254","Devils Lake","Multiple Use","2015",0
+"255","Devils Lake","Multiple Use","2014",0
+"256","Devils Lake","Multiple Use","2013",0
+"257","Devils Lake","Multiple Use","2012",0
+"258","Devils Lake","Multiple Use","2011",0
+"259","Devils Lake","Multiple Use","2010",0
+"260","Devils Lake","Municipal","2019",248
+"261","Devils Lake","Municipal","2018",265.2
+"262","Devils Lake","Municipal","2017",429
+"263","Devils Lake","Municipal","2016",519.6
+"264","Devils Lake","Municipal","2015",499.6
+"265","Devils Lake","Municipal","2014",476.3
+"266","Devils Lake","Municipal","2013",337.5
+"267","Devils Lake","Municipal","2012",482.4
+"268","Devils Lake","Municipal","2011",481.9
+"269","Devils Lake","Municipal","2010",462.3
+"270","Elm","Industrial","2019",0
+"271","Elm","Industrial","2018",0
+"272","Elm","Industrial","2017",0
+"273","Elm","Industrial","2016",0
+"274","Elm","Industrial","2015",0.5
+"275","Elm","Industrial","2014",0.5
+"276","Elm","Industrial","2013",0.3
+"277","Elm","Industrial","2012",0.7
+"278","Elm","Industrial","2011",0.7
+"279","Elm","Industrial","2010",1.1
+"280","Elm","Irrigation","2019",395
+"281","Elm","Irrigation","2018",550.5
+"282","Elm","Irrigation","2017",673.6
+"283","Elm","Irrigation","2016",375.5
+"284","Elm","Irrigation","2015",518.6
+"285","Elm","Irrigation","2014",415.9
+"286","Elm","Irrigation","2013",733.5
+"287","Elm","Irrigation","2012",563.7
+"288","Elm","Irrigation","2011",170
+"289","Elm","Irrigation","2010",335.1
+"290","Elm","Municipal","2019",0
+"291","Elm","Municipal","2018",0
+"292","Elm","Municipal","2017",0
+"293","Elm","Municipal","2016",0
+"294","Elm","Municipal","2015",0
+"295","Elm","Municipal","2014",0
+"296","Elm","Municipal","2013",0
+"297","Elm","Municipal","2012",7.4
+"298","Elm","Municipal","2011",6.7
+"299","Elm","Municipal","2010",4.3
+"300","Elm-Marsh","Irrigation","2019",810
+"301","Elm-Marsh","Irrigation","2018",3126.6
+"302","Elm-Marsh","Irrigation","2017",3107.3
+"303","Elm-Marsh","Irrigation","2016",2625.1
+"304","Elm-Marsh","Irrigation","2015",2795.4
+"305","Elm-Marsh","Irrigation","2014",2909.7
+"306","Elm-Marsh","Irrigation","2013",4882.1
+"307","Elm-Marsh","Irrigation","2012",4346
+"308","Elm-Marsh","Irrigation","2011",635.3
+"309","Elm-Marsh","Irrigation","2010",1645.3
+"310","Elm-Marsh","Municipal","2019",0
+"311","Elm-Marsh","Municipal","2018",0.1
+"312","Elm-Marsh","Municipal","2017",0
+"313","Elm-Marsh","Municipal","2016",0
+"314","Elm-Marsh","Municipal","2015",0
+"315","Elm-Marsh","Municipal","2014",0
+"316","Elm-Marsh","Municipal","2013",0
+"317","Elm-Marsh","Municipal","2012",0.5
+"318","Elm-Marsh","Municipal","2011",0
+"319","Elm-Marsh","Municipal","2010",0.6
+"320","Elm-Marsh","Rural Water","2019",436.4
+"321","Elm-Marsh","Rural Water","2018",485
+"322","Elm-Marsh","Rural Water","2017",389.5
+"323","Elm-Marsh","Rural Water","2016",413.7
+"324","Elm-Marsh","Rural Water","2015",351.5
+"325","Elm-Marsh","Rural Water","2014",252.7
+"326","Elm-Marsh","Rural Water","2013",235.3
+"327","Elm-Marsh","Rural Water","2012",202.6
+"328","Elm-Marsh","Rural Water","2011",194.6
+"329","Elm-Marsh","Rural Water","2010",138.4
+"330","Forest","Domestic","2019",39
+"331","Forest","Domestic","2018",61.7
+"332","Forest","Domestic","2017",68.4
+"333","Forest","Domestic","2016",66
+"334","Forest","Domestic","2015",64.5
+"335","Forest","Domestic","2014",59.8
+"336","Forest","Domestic","2013",48.9
+"337","Forest","Domestic","2012",56.2
+"338","Forest","Domestic","2011",56
+"339","Forest","Domestic","2010",54.6
+"340","Forest","Industrial","2019",5.1
+"341","Forest","Industrial","2018",4.2
+"342","Forest","Industrial","2017",3.4
+"343","Forest","Industrial","2016",3.6
+"344","Forest","Industrial","2015",5.3
+"345","Forest","Industrial","2014",4.2
+"346","Forest","Industrial","2013",3.5
+"347","Forest","Industrial","2012",4.4
+"348","Forest","Industrial","2011",4.5
+"349","Forest","Industrial","2010",3.1
+"350","Forest","Irrigation","2019",1409.5
+"351","Forest","Irrigation","2018",1588.4
+"352","Forest","Irrigation","2017",1534.4
+"353","Forest","Irrigation","2016",998.6
+"354","Forest","Irrigation","2015",1398.6
+"355","Forest","Irrigation","2014",1145.6
+"356","Forest","Irrigation","2013",1596
+"357","Forest","Irrigation","2012",1882.9
+"358","Forest","Irrigation","2011",1311.6
+"359","Forest","Irrigation","2010",1292.6
+"360","Forest","Municipal","2019",233.6
+"361","Forest","Municipal","2018",217
+"362","Forest","Municipal","2017",230.2
+"363","Forest","Municipal","2016",213
+"364","Forest","Municipal","2015",218
+"365","Forest","Municipal","2014",167.2
+"366","Forest","Municipal","2013",210.1
+"367","Forest","Municipal","2012",209.5
+"368","Forest","Municipal","2011",203
+"369","Forest","Municipal","2010",202
+"370","Forest","Rural Water","2019",544.5
+"371","Forest","Rural Water","2018",700.4
+"372","Forest","Rural Water","2017",717.8
+"373","Forest","Rural Water","2016",689.6
+"374","Forest","Rural Water","2015",747.9
+"375","Forest","Rural Water","2014",794.1
+"376","Forest","Rural Water","2013",797.4
+"377","Forest","Rural Water","2012",861.8
+"378","Forest","Rural Water","2011",514.9
+"379","Forest","Rural Water","2010",379.7
+"380","Goose","Industrial","2019",0.1
+"381","Goose","Industrial","2018",0.1
+"382","Goose","Industrial","2017",0.1
+"383","Goose","Industrial","2016",0.1
+"384","Goose","Industrial","2015",0.1
+"385","Goose","Industrial","2014",0.1
+"386","Goose","Industrial","2013",0.1
+"387","Goose","Industrial","2012",0.1
+"388","Goose","Industrial","2011",0.2
+"389","Goose","Industrial","2010",0.2
+"390","Goose","Irrigation","2019",381.8
+"391","Goose","Irrigation","2018",2563.7
+"392","Goose","Irrigation","2017",2929.2
+"393","Goose","Irrigation","2016",1797.7
+"394","Goose","Irrigation","2015",1048.4
+"395","Goose","Irrigation","2014",1033.8
+"396","Goose","Irrigation","2013",1725.7
+"397","Goose","Irrigation","2012",1529.5
+"398","Goose","Irrigation","2011",38.1
+"399","Goose","Irrigation","2010",461.7
+"400","Goose","Municipal","2019",2.5
+"401","Goose","Municipal","2018",3.3
+"402","Goose","Municipal","2017",2.6
+"403","Goose","Municipal","2016",2.2
+"404","Goose","Municipal","2015",1.9
+"405","Goose","Municipal","2014",3.1
+"406","Goose","Municipal","2013",167.7
+"407","Goose","Municipal","2012",189.4
+"408","Goose","Municipal","2011",210
+"409","Goose","Municipal","2010",232.8
+"410","Goose","Rural Water","2019",390.4
+"411","Goose","Rural Water","2018",501.6
+"412","Goose","Rural Water","2017",490.5
+"413","Goose","Rural Water","2016",477.6
+"414","Goose","Rural Water","2015",516.4
+"415","Goose","Rural Water","2014",669.1
+"416","Goose","Rural Water","2013",508
+"417","Goose","Rural Water","2012",436.6
+"418","Goose","Rural Water","2011",296.2
+"419","Goose","Rural Water","2010",430.7
+"420","Grand","Irrigation","2019",0
+"421","Grand","Municipal","2019",0
+"422","Grand","Municipal","2018",0.2
+"423","Grand","Municipal","2017",0
+"424","Grand","Municipal","2016",0.2
+"425","Grand","Municipal","2015",0.3
+"426","Grand","Municipal","2014",0.3
+"427","Grand","Municipal","2013",0.4
+"428","Grand","Municipal","2012",0.3
+"429","Grand","Municipal","2011",0
+"430","Grand","Municipal","2010",0
+"431","Headwaters Souris River","Industrial","2019",0.3
+"432","Headwaters Souris River","Industrial","2018",0
+"433","Headwaters Souris River","Industrial","2017",0
+"434","Headwaters Souris River","Industrial","2016",1
+"435","Headwaters Souris River","Industrial","2015",0
+"436","Headwaters Souris River","Industrial","2014",0
+"437","Headwaters Souris River","Industrial","2013",1.6
+"438","Headwaters Souris River","Industrial","2012",9.4
+"439","Headwaters Souris River","Industrial","2011",10.4
+"440","Headwaters Souris River","Industrial","2010",9.4
+"441","Headwaters Souris River","Municipal","2016",0
+"442","Headwaters Souris River","Municipal","2015",0
+"443","Headwaters Souris River","Municipal","2014",0
+"444","Headwaters Souris River","Municipal","2013",22.7
+"445","Headwaters Souris River","Municipal","2012",24.8
+"446","Headwaters Souris River","Municipal","2011",21.8
+"447","Headwaters Souris River","Municipal","2010",21.1
+"448","James Headwaters","Industrial","2019",18.4
+"449","James Headwaters","Industrial","2018",36.9
+"450","James Headwaters","Industrial","2017",18.7
+"451","James Headwaters","Industrial","2016",18.6
+"452","James Headwaters","Industrial","2015",18.5
+"453","James Headwaters","Industrial","2014",42
+"454","James Headwaters","Industrial","2013",42
+"455","James Headwaters","Industrial","2012",41.6
+"456","James Headwaters","Industrial","2011",41.6
+"457","James Headwaters","Industrial","2010",41.6
+"458","James Headwaters","Irrigation","2019",1299.9
+"459","James Headwaters","Irrigation","2018",1860.4
+"460","James Headwaters","Irrigation","2017",1952.3
+"461","James Headwaters","Irrigation","2016",2132.6
+"462","James Headwaters","Irrigation","2015",3261.9
+"463","James Headwaters","Irrigation","2014",1371.3
+"464","James Headwaters","Irrigation","2013",2358.1
+"465","James Headwaters","Irrigation","2012",1869.7
+"466","James Headwaters","Irrigation","2011",386.4
+"467","James Headwaters","Irrigation","2010",1291.8
+"468","James Headwaters","Multiple Use","2019",72.3
+"469","James Headwaters","Multiple Use","2018",130.9
+"470","James Headwaters","Multiple Use","2017",117.8
+"471","James Headwaters","Multiple Use","2016",118
+"472","James Headwaters","Multiple Use","2015",138.3
+"473","James Headwaters","Multiple Use","2014",93.5
+"474","James Headwaters","Multiple Use","2013",113.9
+"475","James Headwaters","Multiple Use","2012",145.1
+"476","James Headwaters","Multiple Use","2011",89.2
+"477","James Headwaters","Multiple Use","2010",136
+"478","James Headwaters","Municipal","2019",641.1
+"479","James Headwaters","Municipal","2018",632.1
+"480","James Headwaters","Municipal","2017",666.1
+"481","James Headwaters","Municipal","2016",716.4
+"482","James Headwaters","Municipal","2015",644.3
+"483","James Headwaters","Municipal","2014",640.5
+"484","James Headwaters","Municipal","2013",613.5
+"485","James Headwaters","Municipal","2012",580.2
+"486","James Headwaters","Municipal","2011",547.4
+"487","James Headwaters","Municipal","2010",528.1
+"488","James Headwaters","Rural Water","2019",370.9
+"489","James Headwaters","Rural Water","2018",369.6
+"490","James Headwaters","Rural Water","2017",357.5
+"491","James Headwaters","Rural Water","2016",369.5
+"492","James Headwaters","Rural Water","2015",393.5
+"493","James Headwaters","Rural Water","2014",371.8
+"494","James Headwaters","Rural Water","2013",376
+"495","James Headwaters","Rural Water","2012",365.1
+"496","James Headwaters","Rural Water","2011",320.1
+"497","James Headwaters","Rural Water","2010",359
+"498","Knife","Industrial","2019",264.2
+"499","Knife","Industrial","2018",517.3
+"500","Knife","Industrial","2017",520.2
+"501","Knife","Industrial","2016",150.3
+"502","Knife","Industrial","2015",302.1
+"503","Knife","Industrial","2014",459.1
+"504","Knife","Industrial","2013",520.6
+"505","Knife","Industrial","2012",610.1
+"506","Knife","Industrial","2011",508.1
+"507","Knife","Industrial","2010",500.3
+"508","Knife","Irrigation","2019",951
+"509","Knife","Irrigation","2018",1357.3
+"510","Knife","Irrigation","2017",1306.5
+"511","Knife","Irrigation","2016",878.4
+"512","Knife","Irrigation","2015",972.8
+"513","Knife","Irrigation","2014",501
+"514","Knife","Irrigation","2013",765.5
+"515","Knife","Irrigation","2012",1003.5
+"516","Knife","Irrigation","2011",389.2
+"517","Knife","Irrigation","2010",793.8
+"518","Knife","Municipal","2019",413.6
+"519","Knife","Municipal","2018",449.5
+"520","Knife","Municipal","2017",431
+"521","Knife","Municipal","2016",397.7
+"522","Knife","Municipal","2015",596.1
+"523","Knife","Municipal","2014",600.2
+"524","Knife","Municipal","2013",609.1
+"525","Knife","Municipal","2012",732.4
+"526","Knife","Municipal","2011",801.2
+"527","Knife","Municipal","2010",859.3
+"528","Knife","Power Generation","2013",0
+"529","Knife","Power Generation","2012",0
+"530","Knife","Power Generation","2011",0
+"531","Knife","Power Generation","2010",0.1
+"532","Knife","Rural Water","2019",0
+"533","Knife","Rural Water","2018",0
+"534","Knife","Rural Water","2017",0
+"535","Knife","Rural Water","2016",0
+"536","Knife","Rural Water","2015",0
+"537","Knife","Rural Water","2014",0
+"538","Knife","Rural Water","2013",4.6
+"539","Knife","Rural Water","2012",3.7
+"540","Knife","Rural Water","2011",2.8
+"541","Knife","Rural Water","2010",2.8
+"542","Lake Sakakawea","Industrial","2019",6697.3
+"543","Lake Sakakawea","Industrial","2018",6362.6
+"544","Lake Sakakawea","Industrial","2017",4585
+"545","Lake Sakakawea","Industrial","2016",2317.5
+"546","Lake Sakakawea","Industrial","2015",4378.3
+"547","Lake Sakakawea","Industrial","2014",5725.6
+"548","Lake Sakakawea","Industrial","2013",4640.3
+"549","Lake Sakakawea","Industrial","2012",4782.1
+"550","Lake Sakakawea","Industrial","2011",3889.1
+"551","Lake Sakakawea","Industrial","2010",2294.8
+"552","Lake Sakakawea","Irrigation","2019",4149.1
+"553","Lake Sakakawea","Irrigation","2018",5403
+"554","Lake Sakakawea","Irrigation","2017",6266.3
+"555","Lake Sakakawea","Irrigation","2016",3446.8
+"556","Lake Sakakawea","Irrigation","2015",2857.5
+"557","Lake Sakakawea","Irrigation","2014",2226.7
+"558","Lake Sakakawea","Irrigation","2013",2802.6
+"559","Lake Sakakawea","Irrigation","2012",4214.5
+"560","Lake Sakakawea","Irrigation","2011",1774.4
+"561","Lake Sakakawea","Irrigation","2010",3649.2
+"562","Lake Sakakawea","Municipal","2019",621.5
+"563","Lake Sakakawea","Municipal","2018",638.2
+"564","Lake Sakakawea","Municipal","2017",592.6
+"565","Lake Sakakawea","Municipal","2016",533.5
+"566","Lake Sakakawea","Municipal","2015",506.4
+"567","Lake Sakakawea","Municipal","2014",558.3
+"568","Lake Sakakawea","Municipal","2013",613.8
+"569","Lake Sakakawea","Municipal","2012",453.3
+"570","Lake Sakakawea","Municipal","2011",451.6
+"571","Lake Sakakawea","Municipal","2010",644.7
+"572","Lake Sakakawea","Rural Water","2019",377.9
+"573","Lake Sakakawea","Rural Water","2018",321.7
+"574","Lake Sakakawea","Rural Water","2017",498.5
+"575","Lake Sakakawea","Rural Water","2016",343.5
+"576","Lake Sakakawea","Rural Water","2015",764.1
+"577","Lake Sakakawea","Rural Water","2014",900.8
+"578","Lake Sakakawea","Rural Water","2013",902.7
+"579","Lake Sakakawea","Rural Water","2012",828.5
+"580","Lake Sakakawea","Rural Water","2011",657.8
+"581","Lake Sakakawea","Rural Water","2010",539.4
+"582","Little Muddy","Industrial","2019",914.9
+"583","Little Muddy","Industrial","2018",1966.8
+"584","Little Muddy","Industrial","2017",1036.7
+"585","Little Muddy","Industrial","2016",515.1
+"586","Little Muddy","Industrial","2015",978.6
+"587","Little Muddy","Industrial","2014",1346.5
+"588","Little Muddy","Industrial","2013",1001.1
+"589","Little Muddy","Industrial","2012",1905.1
+"590","Little Muddy","Industrial","2011",884.9
+"591","Little Muddy","Industrial","2010",52.6
+"592","Little Muddy","Irrigation","2019",3390.1
+"593","Little Muddy","Irrigation","2018",4059.9
+"594","Little Muddy","Irrigation","2017",4533.1
+"595","Little Muddy","Irrigation","2016",2363.4
+"596","Little Muddy","Irrigation","2015",2565.2
+"597","Little Muddy","Irrigation","2014",2316.6
+"598","Little Muddy","Irrigation","2013",2197.6
+"599","Little Muddy","Irrigation","2012",4161.1
+"600","Little Muddy","Irrigation","2011",3679.9
+"601","Little Muddy","Irrigation","2010",4162.9
+"602","Little Muddy","Municipal","2019",8
+"603","Little Muddy","Municipal","2018",6.6
+"604","Little Muddy","Municipal","2017",3
+"605","Little Muddy","Municipal","2016",4.7
+"606","Little Muddy","Municipal","2015",0.5
+"607","Little Muddy","Municipal","2014",18.8
+"608","Little Muddy","Municipal","2013",2
+"609","Long Creek","Industrial","2019",0.3
+"610","Long Creek","Industrial","2018",0.3
+"611","Long Creek","Industrial","2017",0.3
+"612","Long Creek","Industrial","2016",0.8
+"613","Long Creek","Industrial","2015",0
+"614","Long Creek","Industrial","2014",0
+"615","Long Creek","Industrial","2013",24.2
+"616","Long Creek","Industrial","2012",74.7
+"617","Long Creek","Industrial","2011",66.8
+"618","Long Creek","Industrial","2010",50.1
+"619","Long Creek","Municipal","2019",0
+"620","Long Creek","Municipal","2018",0
+"621","Long Creek","Municipal","2017",0
+"622","Long Creek","Municipal","2016",0
+"623","Long Creek","Municipal","2015",4.3
+"624","Long Creek","Municipal","2014",3.3
+"625","Long Creek","Municipal","2013",95.9
+"626","Long Creek","Municipal","2012",261.4
+"627","Long Creek","Municipal","2011",229.3
+"628","Long Creek","Municipal","2010",208.4
+"629","Lower Cannonball","Irrigation","2019",60.7
+"630","Lower Cannonball","Irrigation","2018",239.2
+"631","Lower Cannonball","Irrigation","2017",417.3
+"632","Lower Cannonball","Irrigation","2016",242.8
+"633","Lower Cannonball","Irrigation","2015",95.4
+"634","Lower Cannonball","Irrigation","2014",111.4
+"635","Lower Cannonball","Irrigation","2013",320.9
+"636","Lower Cannonball","Irrigation","2012",378.7
+"637","Lower Cannonball","Irrigation","2011",140.4
+"638","Lower Cannonball","Irrigation","2010",234.7
+"639","Lower Cannonball","Municipal","2019",0
+"640","Lower Cannonball","Municipal","2018",0
+"641","Lower Cannonball","Municipal","2017",0
+"642","Lower Cannonball","Municipal","2016",0
+"643","Lower Cannonball","Municipal","2015",0
+"644","Lower Cannonball","Municipal","2014",0
+"645","Lower Cannonball","Municipal","2013",0
+"646","Lower Cannonball","Municipal","2012",0
+"647","Lower Cannonball","Municipal","2011",0
+"648","Lower Cannonball","Municipal","2010",6.6
+"649","Lower Heart","Industrial","2015",0
+"650","Lower Heart","Industrial","2014",0
+"651","Lower Heart","Industrial","2013",0.1
+"652","Lower Heart","Industrial","2012",0.1
+"653","Lower Heart","Industrial","2011",1
+"654","Lower Heart","Industrial","2010",0
+"655","Lower Heart","Irrigation","2019",8.9
+"656","Lower Heart","Irrigation","2018",13.5
+"657","Lower Heart","Irrigation","2017",8.9
+"658","Lower Heart","Irrigation","2016",8.9
+"659","Lower Heart","Irrigation","2015",8.9
+"660","Lower Heart","Irrigation","2014",8.9
+"661","Lower Heart","Irrigation","2013",16
+"662","Lower Heart","Irrigation","2012",10.4
+"663","Lower Heart","Irrigation","2011",10.4
+"664","Lower Heart","Irrigation","2010",14.6
+"665","Lower Heart","Municipal","2019",1
+"666","Lower Heart","Municipal","2018",2.3
+"667","Lower Heart","Municipal","2017",0
+"668","Lower Heart","Municipal","2016",0
+"669","Lower Heart","Municipal","2015",1
+"670","Lower Heart","Municipal","2014",0.7
+"671","Lower Heart","Municipal","2013",0.6
+"672","Lower Heart","Municipal","2012",0.1
+"673","Lower Heart","Municipal","2011",0.1
+"674","Lower Heart","Municipal","2010",0.1
+"675","Lower Little Missouri","Domestic","2019",1.3
+"676","Lower Little Missouri","Domestic","2018",1.9
+"677","Lower Little Missouri","Domestic","2017",1.8
+"678","Lower Little Missouri","Domestic","2016",2
+"679","Lower Little Missouri","Domestic","2015",3.2
+"680","Lower Little Missouri","Domestic","2014",3.5
+"681","Lower Little Missouri","Domestic","2013",2
+"682","Lower Little Missouri","Domestic","2012",2.2
+"683","Lower Little Missouri","Domestic","2010",1.8
+"684","Lower Little Missouri","Industrial","2019",952.9
+"685","Lower Little Missouri","Industrial","2018",975.7
+"686","Lower Little Missouri","Industrial","2017",869.2
+"687","Lower Little Missouri","Industrial","2016",509.4
+"688","Lower Little Missouri","Industrial","2015",668.5
+"689","Lower Little Missouri","Industrial","2014",1062
+"690","Lower Little Missouri","Industrial","2013",826.1
+"691","Lower Little Missouri","Industrial","2012",949
+"692","Lower Little Missouri","Industrial","2011",689.4
+"693","Lower Little Missouri","Industrial","2010",298.9
+"694","Lower Little Missouri","Irrigation","2019",46
+"695","Lower Little Missouri","Irrigation","2018",55.4
+"696","Lower Little Missouri","Irrigation","2017",172.7
+"697","Lower Little Missouri","Irrigation","2016",70
+"698","Lower Little Missouri","Irrigation","2015",44.7
+"699","Lower Little Missouri","Irrigation","2014",40
+"700","Lower Little Missouri","Irrigation","2013",40
+"701","Lower Little Missouri","Irrigation","2012",79.5
+"702","Lower Little Missouri","Irrigation","2011",80.1
+"703","Lower Little Missouri","Irrigation","2010",80.5
+"704","Lower Little Missouri","Municipal","2019",0
+"705","Lower Little Missouri","Municipal","2018",0
+"706","Lower Little Missouri","Municipal","2017",0
+"707","Lower Little Missouri","Municipal","2016",0
+"708","Lower Little Missouri","Municipal","2015",0
+"709","Lower Little Missouri","Municipal","2014",0
+"710","Lower Little Missouri","Municipal","2013",0
+"711","Lower Little Missouri","Municipal","2012",550.3
+"712","Lower Little Missouri","Municipal","2011",564
+"713","Lower Little Missouri","Municipal","2010",554.1
+"714","Lower Pembina River","Industrial","2019",0
+"715","Lower Pembina River","Industrial","2018",0
+"716","Lower Pembina River","Industrial","2017",0
+"717","Lower Pembina River","Industrial","2016",0
+"718","Lower Pembina River","Industrial","2015",0
+"719","Lower Pembina River","Industrial","2014",0
+"720","Lower Pembina River","Industrial","2013",0
+"721","Lower Pembina River","Industrial","2012",51.4
+"722","Lower Pembina River","Industrial","2011",263
+"723","Lower Pembina River","Industrial","2010",247
+"724","Lower Pembina River","Irrigation","2019",0.2
+"725","Lower Pembina River","Irrigation","2018",132.5
+"726","Lower Pembina River","Irrigation","2017",107.7
+"727","Lower Pembina River","Irrigation","2016",59.1
+"728","Lower Pembina River","Irrigation","2015",77.3
+"729","Lower Pembina River","Irrigation","2014",60
+"730","Lower Pembina River","Irrigation","2013",60
+"731","Lower Pembina River","Irrigation","2012",76.7
+"732","Lower Pembina River","Irrigation","2011",84
+"733","Lower Pembina River","Irrigation","2010",80
+"734","Lower Pembina River","Municipal","2019",0
+"735","Lower Pembina River","Municipal","2018",0
+"736","Lower Pembina River","Municipal","2017",0
+"737","Lower Pembina River","Municipal","2016",0
+"738","Lower Pembina River","Municipal","2015",0
+"739","Lower Pembina River","Municipal","2014",0
+"740","Lower Pembina River","Municipal","2013",0
+"741","Lower Pembina River","Municipal","2012",4.7
+"742","Lower Pembina River","Municipal","2011",7.2
+"743","Lower Pembina River","Municipal","2010",38.8
+"744","Lower Pembina River","Rural Water","2019",370.6
+"745","Lower Pembina River","Rural Water","2018",346.6
+"746","Lower Pembina River","Rural Water","2017",389.1
+"747","Lower Pembina River","Rural Water","2016",372.2
+"748","Lower Pembina River","Rural Water","2015",386.9
+"749","Lower Pembina River","Rural Water","2014",378.8
+"750","Lower Pembina River","Rural Water","2013",362.5
+"751","Lower Pembina River","Rural Water","2012",379
+"752","Lower Pembina River","Rural Water","2011",345.5
+"753","Lower Pembina River","Rural Water","2010",342.6
+"754","Lower Sheyenne","Industrial","2019",84.6
+"755","Lower Sheyenne","Industrial","2018",48.7
+"756","Lower Sheyenne","Industrial","2017",35.8
+"757","Lower Sheyenne","Industrial","2016",25.1
+"758","Lower Sheyenne","Industrial","2015",21.7
+"759","Lower Sheyenne","Industrial","2014",35.2
+"760","Lower Sheyenne","Industrial","2013",42.2
+"761","Lower Sheyenne","Industrial","2012",52.1
+"762","Lower Sheyenne","Industrial","2011",53.7
+"763","Lower Sheyenne","Industrial","2010",50.5
+"764","Lower Sheyenne","Irrigation","2019",5151.9
+"765","Lower Sheyenne","Irrigation","2018",8133.6
+"766","Lower Sheyenne","Irrigation","2017",9947.3
+"767","Lower Sheyenne","Irrigation","2016",8528.4
+"768","Lower Sheyenne","Irrigation","2015",9114.6
+"769","Lower Sheyenne","Irrigation","2014",7527.3
+"770","Lower Sheyenne","Irrigation","2013",8971
+"771","Lower Sheyenne","Irrigation","2012",9185.4
+"772","Lower Sheyenne","Irrigation","2011",2233.7
+"773","Lower Sheyenne","Irrigation","2010",3550.2
+"774","Lower Sheyenne","Municipal","2019",492.6
+"775","Lower Sheyenne","Municipal","2018",462.4
+"776","Lower Sheyenne","Municipal","2017",464.3
+"777","Lower Sheyenne","Municipal","2016",1155.8
+"778","Lower Sheyenne","Municipal","2015",2711.3
+"779","Lower Sheyenne","Municipal","2014",2339.1
+"780","Lower Sheyenne","Municipal","2013",2352.7
+"781","Lower Sheyenne","Municipal","2012",2520.7
+"782","Lower Sheyenne","Municipal","2011",2156.8
+"783","Lower Sheyenne","Municipal","2010",2005.3
+"784","Lower Sheyenne","Rural Water","2019",757.8
+"785","Lower Sheyenne","Rural Water","2018",786.5
+"786","Lower Sheyenne","Rural Water","2017",696.3
+"787","Lower Sheyenne","Rural Water","2016",602.9
+"788","Lower Sheyenne","Rural Water","2015",600.7
+"789","Lower Sheyenne","Rural Water","2014",604
+"790","Lower Sheyenne","Rural Water","2013",570.8
+"791","Lower Sheyenne","Rural Water","2012",544.5
+"792","Lower Sheyenne","Rural Water","2011",478.2
+"793","Lower Sheyenne","Rural Water","2010",505.3
+"794","Lower Souris","Domestic","2019",0
+"795","Lower Souris","Domestic","2018",0
+"796","Lower Souris","Domestic","2017",0
+"797","Lower Souris","Domestic","2016",0
+"798","Lower Souris","Domestic","2015",0
+"799","Lower Souris","Domestic","2014",0
+"800","Lower Souris","Domestic","2013",0.2
+"801","Lower Souris","Domestic","2012",0.3
+"802","Lower Souris","Domestic","2010",2.6
+"803","Lower Souris","Industrial","2019",637.2
+"804","Lower Souris","Industrial","2018",785.4
+"805","Lower Souris","Industrial","2017",566.4
+"806","Lower Souris","Industrial","2016",740.3
+"807","Lower Souris","Industrial","2015",699.9
+"808","Lower Souris","Industrial","2014",713.9
+"809","Lower Souris","Industrial","2013",797.6
+"810","Lower Souris","Industrial","2012",945
+"811","Lower Souris","Industrial","2011",674.7
+"812","Lower Souris","Industrial","2010",675.6
+"813","Lower Souris","Irrigation","2019",11724.4
+"814","Lower Souris","Irrigation","2018",8889.4
+"815","Lower Souris","Irrigation","2017",10341.9
+"816","Lower Souris","Irrigation","2016",7338.8
+"817","Lower Souris","Irrigation","2015",8031.2
+"818","Lower Souris","Irrigation","2014",5451.7
+"819","Lower Souris","Irrigation","2013",6863.8
+"820","Lower Souris","Irrigation","2012",8283.6
+"821","Lower Souris","Irrigation","2011",6205.8
+"822","Lower Souris","Irrigation","2010",8544.4
+"823","Lower Souris","Municipal","2019",525.6
+"824","Lower Souris","Municipal","2018",573
+"825","Lower Souris","Municipal","2017",567.2
+"826","Lower Souris","Municipal","2016",611.1
+"827","Lower Souris","Municipal","2015",591.8
+"828","Lower Souris","Municipal","2014",639.5
+"829","Lower Souris","Municipal","2013",626.4
+"830","Lower Souris","Municipal","2012",571.9
+"831","Lower Souris","Municipal","2011",647.6
+"832","Lower Souris","Municipal","2010",574
+"833","Lower Souris","Rural Water","2019",895
+"834","Lower Souris","Rural Water","2018",972
+"835","Lower Souris","Rural Water","2017",1075.2
+"836","Lower Souris","Rural Water","2016",857.7
+"837","Lower Souris","Rural Water","2015",946.6
+"838","Lower Souris","Rural Water","2014",869.1
+"839","Lower Souris","Rural Water","2013",835.4
+"840","Lower Souris","Rural Water","2012",797.7
+"841","Lower Souris","Rural Water","2011",737.9
+"842","Lower Souris","Rural Water","2010",706.4
+"843","Lower Yellowstone","Industrial","2019",59.3
+"844","Lower Yellowstone","Industrial","2018",82.4
+"845","Lower Yellowstone","Industrial","2017",68.9
+"846","Lower Yellowstone","Industrial","2016",39
+"847","Lower Yellowstone","Industrial","2015",172
+"848","Lower Yellowstone","Industrial","2014",467.7
+"849","Lower Yellowstone","Industrial","2013",432.2
+"850","Lower Yellowstone","Industrial","2012",699.5
+"851","Lower Yellowstone","Industrial","2011",316.9
+"852","Lower Yellowstone","Industrial","2010",148.3
+"853","Lower Yellowstone","Irrigation","2019",1550
+"854","Lower Yellowstone","Irrigation","2018",2585.9
+"855","Lower Yellowstone","Irrigation","2017",2748.6
+"856","Lower Yellowstone","Irrigation","2016",2365.7
+"857","Lower Yellowstone","Irrigation","2015",2026
+"858","Lower Yellowstone","Irrigation","2014",1716
+"859","Lower Yellowstone","Irrigation","2013",1528.9
+"860","Lower Yellowstone","Irrigation","2012",1342.2
+"861","Lower Yellowstone","Irrigation","2011",1351
+"862","Lower Yellowstone","Irrigation","2010",1413.4
+"863","Lower Yellowstone","Municipal","2019",37.5
+"864","Lower Yellowstone","Municipal","2018",40.7
+"865","Lower Yellowstone","Municipal","2017",42.4
+"866","Lower Yellowstone","Municipal","2016",48.7
+"867","Lower Yellowstone","Municipal","2015",65
+"868","Lower Yellowstone","Municipal","2014",75.9
+"869","Lower Yellowstone","Municipal","2013",29.9
+"870","Lower Yellowstone","Municipal","2012",23
+"871","Lower Yellowstone","Municipal","2011",18.1
+"872","Lower Yellowstone","Municipal","2010",20
+"873","Maple","Industrial","2019",0
+"874","Maple","Industrial","2018",0
+"875","Maple","Industrial","2016",0
+"876","Maple","Industrial","2015",0
+"877","Maple","Industrial","2014",0
+"878","Maple","Industrial","2013",0
+"879","Maple","Industrial","2012",0
+"880","Maple","Industrial","2011",0
+"881","Maple","Industrial","2010",0.3
+"882","Maple","Irrigation","2019",294
+"883","Maple","Irrigation","2018",719
+"884","Maple","Irrigation","2017",891
+"885","Maple","Irrigation","2016",321.6
+"886","Maple","Irrigation","2015",655.6
+"887","Maple","Irrigation","2014",643.6
+"888","Maple","Irrigation","2013",898.3
+"889","Maple","Irrigation","2012",942.6
+"890","Maple","Irrigation","2011",262.8
+"891","Maple","Irrigation","2010",337.9
+"892","Maple","Municipal","2019",873
+"893","Maple","Municipal","2018",698.8
+"894","Maple","Municipal","2017",670
+"895","Maple","Municipal","2016",735.3
+"896","Maple","Municipal","2015",733.2
+"897","Maple","Municipal","2014",872
+"898","Maple","Municipal","2013",773.4
+"899","Maple","Municipal","2012",745.9
+"900","Maple","Municipal","2011",806.1
+"901","Maple","Municipal","2010",1118.7
+"902","Maple","Rural Water","2019",374.2
+"903","Maple","Rural Water","2018",348
+"904","Maple","Rural Water","2017",383.2
+"905","Maple","Rural Water","2016",373.2
+"906","Maple","Rural Water","2015",316.2
+"907","Maple","Rural Water","2014",351.5
+"908","Maple","Rural Water","2013",398.9
+"909","Maple","Rural Water","2012",405.3
+"910","Maple","Rural Water","2011",389.1
+"911","Maple","Rural Water","2010",377.5
+"912","Middle Little Missouri","Domestic","2019",1
+"913","Middle Little Missouri","Domestic","2018",1.1
+"914","Middle Little Missouri","Domestic","2017",1.3
+"915","Middle Little Missouri","Domestic","2016",1.4
+"916","Middle Little Missouri","Domestic","2015",1.3
+"917","Middle Little Missouri","Domestic","2014",1.3
+"918","Middle Little Missouri","Domestic","2013",1.9
+"919","Middle Little Missouri","Domestic","2012",2
+"920","Middle Little Missouri","Domestic","2010",3.6
+"921","Middle Little Missouri","Industrial","2019",158.4
+"922","Middle Little Missouri","Industrial","2018",144
+"923","Middle Little Missouri","Industrial","2017",81.9
+"924","Middle Little Missouri","Industrial","2016",116.2
+"925","Middle Little Missouri","Industrial","2015",103.4
+"926","Middle Little Missouri","Industrial","2014",169
+"927","Middle Little Missouri","Industrial","2013",250.4
+"928","Middle Little Missouri","Industrial","2012",227.7
+"929","Middle Little Missouri","Industrial","2011",171.3
+"930","Middle Little Missouri","Industrial","2010",247.4
+"931","Middle Little Missouri","Municipal","2019",18.3
+"932","Middle Little Missouri","Municipal","2018",24.2
+"933","Middle Little Missouri","Municipal","2017",29.8
+"934","Middle Little Missouri","Municipal","2016",21.5
+"935","Middle Little Missouri","Municipal","2015",32.2
+"936","Middle Little Missouri","Municipal","2014",38.6
+"937","Middle Little Missouri","Municipal","2013",22.9
+"938","Middle Little Missouri","Municipal","2012",29.5
+"939","Middle Little Missouri","Municipal","2011",21.9
+"940","Middle Little Missouri","Municipal","2010",20.7
+"941","Middle Little Missouri","Rural Water","2019",1.8
+"942","Middle Little Missouri","Rural Water","2018",1.9
+"943","Middle Little Missouri","Rural Water","2017",1.7
+"944","Middle Little Missouri","Rural Water","2016",1.8
+"945","Middle Little Missouri","Rural Water","2015",1.9
+"946","Middle Little Missouri","Rural Water","2014",1.7
+"947","Middle Little Missouri","Rural Water","2013",1.8
+"948","Middle Little Missouri","Rural Water","2012",2.3
+"949","Middle Little Missouri","Rural Water","2011",2.1
+"950","Middle Little Missouri","Rural Water","2010",2.8
+"951","Middle Sheyenne","Industrial","2019",0
+"952","Middle Sheyenne","Industrial","2018",0
+"953","Middle Sheyenne","Industrial","2017",0
+"954","Middle Sheyenne","Industrial","2016",0
+"955","Middle Sheyenne","Industrial","2015",0
+"956","Middle Sheyenne","Industrial","2014",0.9
+"957","Middle Sheyenne","Industrial","2013",0
+"958","Middle Sheyenne","Industrial","2012",0
+"959","Middle Sheyenne","Industrial","2011",0
+"960","Middle Sheyenne","Industrial","2010",0
+"961","Middle Sheyenne","Irrigation","2019",1946.8
+"962","Middle Sheyenne","Irrigation","2018",3618.3
+"963","Middle Sheyenne","Irrigation","2017",3394.3
+"964","Middle Sheyenne","Irrigation","2016",2200.3
+"965","Middle Sheyenne","Irrigation","2015",3396.7
+"966","Middle Sheyenne","Irrigation","2014",3729.2
+"967","Middle Sheyenne","Irrigation","2013",5646
+"968","Middle Sheyenne","Irrigation","2012",4372.8
+"969","Middle Sheyenne","Irrigation","2011",1194.4
+"970","Middle Sheyenne","Irrigation","2010",3815.6
+"971","Middle Sheyenne","Municipal","2019",1862.8
+"972","Middle Sheyenne","Municipal","2018",1820.2
+"973","Middle Sheyenne","Municipal","2017",1251.1
+"974","Middle Sheyenne","Municipal","2016",1154.7
+"975","Middle Sheyenne","Municipal","2015",1165
+"976","Middle Sheyenne","Municipal","2014",1105.9
+"977","Middle Sheyenne","Municipal","2013",1115.9
+"978","Middle Sheyenne","Municipal","2012",1222.1
+"979","Middle Sheyenne","Municipal","2011",1103.3
+"980","Middle Sheyenne","Municipal","2010",1078.1
+"981","Middle Sheyenne","Rural Water","2019",972.3
+"982","Middle Sheyenne","Rural Water","2018",833.9
+"983","Middle Sheyenne","Rural Water","2017",812.5
+"984","Middle Sheyenne","Rural Water","2016",894.7
+"985","Middle Sheyenne","Rural Water","2015",733.7
+"986","Middle Sheyenne","Rural Water","2014",746.7
+"987","Middle Sheyenne","Rural Water","2013",758.8
+"988","Middle Sheyenne","Rural Water","2012",827.7
+"989","Middle Sheyenne","Rural Water","2011",715.9
+"990","Middle Sheyenne","Rural Water","2010",750.6
+"991","Moose Mountain Creek-Souris River","Industrial","2019",87.6
+"992","Moose Mountain Creek-Souris River","Industrial","2018",35.7
+"993","Moose Mountain Creek-Souris River","Industrial","2017",48
+"994","Moose Mountain Creek-Souris River","Industrial","2016",63.9
+"995","Moose Mountain Creek-Souris River","Industrial","2015",74.3
+"996","Moose Mountain Creek-Souris River","Industrial","2014",60.5
+"997","Moose Mountain Creek-Souris River","Industrial","2013",20.3
+"998","Moose Mountain Creek-Souris River","Industrial","2012",16.1
+"999","Moose Mountain Creek-Souris River","Industrial","2011",1.3
+"1000","Moose Mountain Creek-Souris River","Industrial","2010",16.7
+"1001","Moose Mountain Creek-Souris River","Irrigation","2019",39.7
+"1002","Moose Mountain Creek-Souris River","Irrigation","2018",67
+"1003","Moose Mountain Creek-Souris River","Irrigation","2017",40.7
+"1004","Moose Mountain Creek-Souris River","Irrigation","2016",29.5
+"1005","Moose Mountain Creek-Souris River","Irrigation","2015",18
+"1006","Moose Mountain Creek-Souris River","Irrigation","2014",0.3
+"1007","Moose Mountain Creek-Souris River","Irrigation","2013",0.3
+"1008","Moose Mountain Creek-Souris River","Irrigation","2012",0
+"1009","Moose Mountain Creek-Souris River","Irrigation","2011",0
+"1010","Moose Mountain Creek-Souris River","Irrigation","2010",21.3
+"1011","Moose Mountain Creek-Souris River","Municipal","2019",6414.1
+"1012","Moose Mountain Creek-Souris River","Municipal","2018",7267.1
+"1013","Moose Mountain Creek-Souris River","Municipal","2017",7175.2
+"1014","Moose Mountain Creek-Souris River","Municipal","2016",6738
+"1015","Moose Mountain Creek-Souris River","Municipal","2015",7029.2
+"1016","Moose Mountain Creek-Souris River","Municipal","2014",6855.2
+"1017","Moose Mountain Creek-Souris River","Municipal","2013",6778.8
+"1018","Moose Mountain Creek-Souris River","Municipal","2012",7537.4
+"1019","Moose Mountain Creek-Souris River","Municipal","2011",4916.9
+"1020","Moose Mountain Creek-Souris River","Municipal","2010",5960.7
+"1021","Moose Mountain Creek-Souris River","Rural Water","2019",722.1
+"1022","Moose Mountain Creek-Souris River","Rural Water","2018",718.7
+"1023","Moose Mountain Creek-Souris River","Rural Water","2017",645.2
+"1024","Moose Mountain Creek-Souris River","Rural Water","2016",573.8
+"1025","Moose Mountain Creek-Souris River","Rural Water","2015",554.8
+"1026","Moose Mountain Creek-Souris River","Rural Water","2014",545.6
+"1027","Moose Mountain Creek-Souris River","Rural Water","2013",419.7
+"1028","Moose Mountain Creek-Souris River","Rural Water","2012",454
+"1029","Moose Mountain Creek-Souris River","Rural Water","2011",448.8
+"1030","Moose Mountain Creek-Souris River","Rural Water","2010",314.9
+"1031","North Fork Grand","Industrial","2019",130.6
+"1032","North Fork Grand","Industrial","2018",120.1
+"1033","North Fork Grand","Industrial","2017",100.5
+"1034","North Fork Grand","Industrial","2016",101.6
+"1035","North Fork Grand","Industrial","2015",125.5
+"1036","North Fork Grand","Industrial","2014",133.3
+"1037","North Fork Grand","Industrial","2013",131.3
+"1038","North Fork Grand","Industrial","2012",130.8
+"1039","North Fork Grand","Industrial","2011",97.1
+"1040","North Fork Grand","Industrial","2010",146
+"1041","North Fork Grand","Irrigation","2019",3.4
+"1042","North Fork Grand","Irrigation","2018",6.4
+"1043","North Fork Grand","Irrigation","2017",11.6
+"1044","North Fork Grand","Irrigation","2016",8.7
+"1045","North Fork Grand","Irrigation","2015",2.5
+"1046","North Fork Grand","Irrigation","2014",0.9
+"1047","North Fork Grand","Irrigation","2013",2.1
+"1048","North Fork Grand","Irrigation","2012",2.3
+"1049","North Fork Grand","Irrigation","2011",2
+"1050","North Fork Grand","Irrigation","2010",2
+"1051","North Fork Grand","Municipal","2019",189.7
+"1052","North Fork Grand","Municipal","2018",199.8
+"1053","North Fork Grand","Municipal","2017",233.8
+"1054","North Fork Grand","Municipal","2016",233
+"1055","North Fork Grand","Municipal","2015",240.7
+"1056","North Fork Grand","Municipal","2014",218
+"1057","North Fork Grand","Municipal","2013",235.9
+"1058","North Fork Grand","Municipal","2012",266.6
+"1059","North Fork Grand","Municipal","2011",217.2
+"1060","North Fork Grand","Municipal","2010",231.6
+"1061","Painted Woods-Square Butte","Industrial","2019",326.1
+"1062","Painted Woods-Square Butte","Industrial","2018",391.1
+"1063","Painted Woods-Square Butte","Industrial","2017",401.5
+"1064","Painted Woods-Square Butte","Industrial","2016",304.2
+"1065","Painted Woods-Square Butte","Industrial","2015",347.4
+"1066","Painted Woods-Square Butte","Industrial","2014",257.8
+"1067","Painted Woods-Square Butte","Industrial","2013",252.8
+"1068","Painted Woods-Square Butte","Industrial","2012",316
+"1069","Painted Woods-Square Butte","Industrial","2011",256.5
+"1070","Painted Woods-Square Butte","Industrial","2010",297.3
+"1071","Painted Woods-Square Butte","Irrigation","2019",3443.8
+"1072","Painted Woods-Square Butte","Irrigation","2018",4289.6
+"1073","Painted Woods-Square Butte","Irrigation","2017",5597
+"1074","Painted Woods-Square Butte","Irrigation","2016",4367.2
+"1075","Painted Woods-Square Butte","Irrigation","2015",3492.4
+"1076","Painted Woods-Square Butte","Irrigation","2014",2768.7
+"1077","Painted Woods-Square Butte","Irrigation","2013",2982.7
+"1078","Painted Woods-Square Butte","Irrigation","2012",4182.7
+"1079","Painted Woods-Square Butte","Irrigation","2011",1260.1
+"1080","Painted Woods-Square Butte","Irrigation","2010",2220.8
+"1081","Painted Woods-Square Butte","Municipal","2019",897.1
+"1082","Painted Woods-Square Butte","Municipal","2018",1180.1
+"1083","Painted Woods-Square Butte","Municipal","2017",1255.1
+"1084","Painted Woods-Square Butte","Municipal","2016",1075
+"1085","Painted Woods-Square Butte","Municipal","2015",980.3
+"1086","Painted Woods-Square Butte","Municipal","2014",121.8
+"1087","Painted Woods-Square Butte","Municipal","2013",10.7
+"1088","Painted Woods-Square Butte","Municipal","2012",70.6
+"1089","Painted Woods-Square Butte","Municipal","2011",111.1
+"1090","Painted Woods-Square Butte","Municipal","2010",144.4
+"1091","Painted Woods-Square Butte","Rural Water","2019",1785.7
+"1092","Painted Woods-Square Butte","Rural Water","2018",1816.7
+"1093","Painted Woods-Square Butte","Rural Water","2017",1833.5
+"1094","Painted Woods-Square Butte","Rural Water","2016",1737.5
+"1095","Painted Woods-Square Butte","Rural Water","2015",1762.9
+"1096","Painted Woods-Square Butte","Rural Water","2014",1648
+"1097","Painted Woods-Square Butte","Rural Water","2013",1705.7
+"1098","Painted Woods-Square Butte","Rural Water","2012",1653.9
+"1099","Painted Woods-Square Butte","Rural Water","2011",950.1
+"1100","Painted Woods-Square Butte","Rural Water","2010",1000.8
+"1101","Park","Domestic","2019",0.7
+"1102","Park","Domestic","2018",0.9
+"1103","Park","Domestic","2017",0.7
+"1104","Park","Domestic","2016",0.7
+"1105","Park","Domestic","2015",0.9
+"1106","Park","Domestic","2014",1
+"1107","Park","Domestic","2013",1.2
+"1108","Park","Domestic","2012",1.3
+"1109","Park","Domestic","2011",1.2
+"1110","Park","Domestic","2010",1.2
+"1111","Park","Industrial","2019",2.3
+"1112","Park","Industrial","2018",2.1
+"1113","Park","Industrial","2017",2.2
+"1114","Park","Industrial","2016",2.4
+"1115","Park","Industrial","2015",2.4
+"1116","Park","Industrial","2014",0
+"1117","Park","Industrial","2013",2.2
+"1118","Park","Industrial","2012",2.5
+"1119","Park","Industrial","2011",0
+"1120","Park","Industrial","2010",2.4
+"1121","Park","Irrigation","2019",355.7
+"1122","Park","Irrigation","2018",481.5
+"1123","Park","Irrigation","2017",463.2
+"1124","Park","Irrigation","2016",244.8
+"1125","Park","Irrigation","2015",468.8
+"1126","Park","Irrigation","2014",283.1
+"1127","Park","Irrigation","2013",472.5
+"1128","Park","Irrigation","2012",490.9
+"1129","Park","Irrigation","2011",457
+"1130","Park","Irrigation","2010",234.6
+"1131","Park","Rural Water","2019",647.5
+"1132","Park","Rural Water","2018",633.6
+"1133","Park","Rural Water","2017",625.8
+"1134","Park","Rural Water","2016",647.8
+"1135","Park","Rural Water","2015",662.8
+"1136","Park","Rural Water","2014",643.8
+"1137","Park","Rural Water","2013",618.7
+"1138","Park","Rural Water","2012",649.6
+"1139","Park","Rural Water","2011",586.6
+"1140","Park","Rural Water","2010",598
+"1141","Pipestem","Irrigation","2019",42.9
+"1142","Pipestem","Irrigation","2018",75.3
+"1143","Pipestem","Irrigation","2017",179.6
+"1144","Pipestem","Irrigation","2016",57.1
+"1145","Pipestem","Irrigation","2015",92.4
+"1146","Pipestem","Irrigation","2014",76.4
+"1147","Pipestem","Irrigation","2013",115.8
+"1148","Pipestem","Irrigation","2012",79.7
+"1149","Pipestem","Irrigation","2011",0
+"1150","Pipestem","Irrigation","2010",57
+"1151","Pipestem","Municipal","2019",0
+"1152","Pipestem","Municipal","2018",0
+"1153","Pipestem","Municipal","2017",0
+"1154","Pipestem","Municipal","2016",0
+"1155","Pipestem","Municipal","2015",0
+"1156","Pipestem","Municipal","2014",0
+"1157","Pipestem","Municipal","2013",0
+"1158","Pipestem","Municipal","2012",0
+"1159","Pipestem","Municipal","2011",0
+"1160","Pipestem","Municipal","2010",0
+"1161","Sandhill-Wilson","Industrial","2019",0.1
+"1162","Sandhill-Wilson","Industrial","2018",0.1
+"1163","Sandhill-Wilson","Industrial","2017",0.1
+"1164","Sandhill-Wilson","Industrial","2016",0.1
+"1165","Sandhill-Wilson","Industrial","2015",0.1
+"1166","Sandhill-Wilson","Industrial","2014",0.1
+"1167","Sandhill-Wilson","Industrial","2013",0.1
+"1168","Sandhill-Wilson","Industrial","2012",0.1
+"1169","Sandhill-Wilson","Industrial","2011",0.1
+"1170","Sandhill-Wilson","Industrial","2010",0.1
+"1171","Sandhill-Wilson","Irrigation","2019",0
+"1172","Sandhill-Wilson","Irrigation","2018",0
+"1173","Sandhill-Wilson","Irrigation","2017",0
+"1174","Sandhill-Wilson","Irrigation","2016",0
+"1175","Sandhill-Wilson","Irrigation","2015",0
+"1176","Sandhill-Wilson","Irrigation","2014",0
+"1177","Sandhill-Wilson","Irrigation","2013",1.5
+"1178","Sandhill-Wilson","Irrigation","2012",0.8
+"1179","Sandhill-Wilson","Irrigation","2011",33.1
+"1180","Sandhill-Wilson","Irrigation","2010",30.8
+"1181","Turtle","Industrial","2013",0
+"1182","Turtle","Industrial","2012",0.1
+"1183","Turtle","Industrial","2011",0.1
+"1184","Turtle","Industrial","2010",0.1
+"1185","Turtle","Irrigation","2019",6971.5
+"1186","Turtle","Irrigation","2018",9285.7
+"1187","Turtle","Irrigation","2017",8677.2
+"1188","Turtle","Irrigation","2016",3687.5
+"1189","Turtle","Irrigation","2015",6740.3
+"1190","Turtle","Irrigation","2014",5224.9
+"1191","Turtle","Irrigation","2013",8685.3
+"1192","Turtle","Irrigation","2012",11294.8
+"1193","Turtle","Irrigation","2011",5458.5
+"1194","Turtle","Irrigation","2010",6175.1
+"1195","Turtle","Municipal","2019",143.4
+"1196","Turtle","Municipal","2018",237.9
+"1197","Turtle","Municipal","2017",140.7
+"1198","Turtle","Municipal","2016",152.7
+"1199","Turtle","Municipal","2015",157.8
+"1200","Turtle","Municipal","2014",144
+"1201","Turtle","Municipal","2013",146
+"1202","Turtle","Municipal","2012",103.5
+"1203","Turtle","Municipal","2011",146.7
+"1204","Turtle","Municipal","2010",129.6
+"1205","Turtle","Rural Water","2019",1610.3
+"1206","Turtle","Rural Water","2018",1181.5
+"1207","Turtle","Rural Water","2017",1330.7
+"1208","Turtle","Rural Water","2016",1252.7
+"1209","Turtle","Rural Water","2015",1385
+"1210","Turtle","Rural Water","2014",1131.1
+"1211","Turtle","Rural Water","2013",1280.7
+"1212","Turtle","Rural Water","2012",1291.1
+"1213","Turtle","Rural Water","2011",1150.3
+"1214","Turtle","Rural Water","2010",1077.4
+"1215","Upper Cannonball","Industrial","2019",33.3
+"1216","Upper Cannonball","Industrial","2018",0
+"1217","Upper Cannonball","Industrial","2011",0
+"1218","Upper Cannonball","Industrial","2010",0
+"1219","Upper Cannonball","Municipal","2019",0.4
+"1220","Upper Cannonball","Municipal","2018",0.2
+"1221","Upper Cannonball","Municipal","2017",38.5
+"1222","Upper Cannonball","Municipal","2016",41.2
+"1223","Upper Cannonball","Municipal","2015",0.2
+"1224","Upper Cannonball","Municipal","2014",0.1
+"1225","Upper Cannonball","Municipal","2013",0.2
+"1226","Upper Cannonball","Municipal","2012",0.2
+"1227","Upper Cannonball","Municipal","2011",0.4
+"1228","Upper Cannonball","Municipal","2010",0.2
+"1229","Upper Cannonball","Rural Water","2011",0
+"1230","Upper Cannonball","Rural Water","2010",0
+"1231","Upper Heart","Industrial","2019",364.9
+"1232","Upper Heart","Industrial","2018",317
+"1233","Upper Heart","Industrial","2017",304.1
+"1234","Upper Heart","Industrial","2016",406.3
+"1235","Upper Heart","Industrial","2015",457.8
+"1236","Upper Heart","Industrial","2014",528.1
+"1237","Upper Heart","Industrial","2013",309.1
+"1238","Upper Heart","Industrial","2012",407.2
+"1239","Upper Heart","Industrial","2011",376.7
+"1240","Upper Heart","Industrial","2010",365.9
+"1241","Upper Heart","Irrigation","2013",0
+"1242","Upper Heart","Irrigation","2012",0
+"1243","Upper Heart","Irrigation","2011",0
+"1244","Upper Heart","Irrigation","2010",0
+"1245","Upper Heart","Municipal","2019",0
+"1246","Upper Heart","Municipal","2018",0
+"1247","Upper Heart","Municipal","2017",19.3
+"1248","Upper Heart","Municipal","2016",20.3
+"1249","Upper Heart","Municipal","2015",1.2
+"1250","Upper Heart","Municipal","2014",1.7
+"1251","Upper Heart","Municipal","2013",1.1
+"1252","Upper Heart","Municipal","2012",1.2
+"1253","Upper Heart","Municipal","2011",0.8
+"1254","Upper Heart","Municipal","2010",1.5
+"1255","Upper Heart","Rural Water","2017",0
+"1256","Upper Heart","Rural Water","2016",0
+"1257","Upper Heart","Rural Water","2015",0
+"1258","Upper Heart","Rural Water","2014",0
+"1259","Upper Heart","Rural Water","2013",0.1
+"1260","Upper Heart","Rural Water","2012",0.2
+"1261","Upper Heart","Rural Water","2011",0.2
+"1262","Upper Heart","Rural Water","2010",0.1
+"1263","Upper James","Fish and Wildlife","2018",0.2
+"1264","Upper James","Fish and Wildlife","2017",1
+"1265","Upper James","Fish and Wildlife","2016",0
+"1266","Upper James","Industrial","2019",1286.3
+"1267","Upper James","Industrial","2018",1396.4
+"1268","Upper James","Industrial","2017",2245.8
+"1269","Upper James","Industrial","2016",2927.5
+"1270","Upper James","Industrial","2015",2792.9
+"1271","Upper James","Industrial","2014",2338.9
+"1272","Upper James","Industrial","2013",2198.5
+"1273","Upper James","Industrial","2012",1976.8
+"1274","Upper James","Industrial","2011",2054
+"1275","Upper James","Industrial","2010",2617.1
+"1276","Upper James","Irrigation","2019",8705.3
+"1277","Upper James","Irrigation","2018",16415.1
+"1278","Upper James","Irrigation","2017",21289.1
+"1279","Upper James","Irrigation","2016",18267.7
+"1280","Upper James","Irrigation","2015",20640.2
+"1281","Upper James","Irrigation","2014",14707
+"1282","Upper James","Irrigation","2013",19774.8
+"1283","Upper James","Irrigation","2012",20170.3
+"1284","Upper James","Irrigation","2011",8344.4
+"1285","Upper James","Irrigation","2010",12293.9
+"1286","Upper James","Municipal","2019",3991.8
+"1287","Upper James","Municipal","2018",4144
+"1288","Upper James","Municipal","2017",3696.5
+"1289","Upper James","Municipal","2016",4126.1
+"1290","Upper James","Municipal","2015",3608.5
+"1291","Upper James","Municipal","2014",3693.8
+"1292","Upper James","Municipal","2013",3630.7
+"1293","Upper James","Municipal","2012",3555.2
+"1294","Upper James","Municipal","2011",3379.6
+"1295","Upper James","Municipal","2010",3439.5
+"1296","Upper James","Rural Water","2019",1580
+"1297","Upper James","Rural Water","2018",1584.4
+"1298","Upper James","Rural Water","2017",1480.9
+"1299","Upper James","Rural Water","2016",1480.3
+"1300","Upper James","Rural Water","2015",1241.3
+"1301","Upper James","Rural Water","2014",1457.5
+"1302","Upper James","Rural Water","2013",1459.9
+"1303","Upper James","Rural Water","2012",1499.8
+"1304","Upper James","Rural Water","2011",1380
+"1305","Upper James","Rural Water","2010",1385.9
+"1306","Upper Lake Oahe","Industrial","2015",0
+"1307","Upper Lake Oahe","Industrial","2014",0
+"1308","Upper Lake Oahe","Industrial","2013",0
+"1309","Upper Lake Oahe","Industrial","2012",0
+"1310","Upper Lake Oahe","Industrial","2011",0
+"1311","Upper Lake Oahe","Industrial","2010",0
+"1312","Upper Lake Oahe","Irrigation","2019",686.8
+"1313","Upper Lake Oahe","Irrigation","2018",1637.2
+"1314","Upper Lake Oahe","Irrigation","2017",2509.8
+"1315","Upper Lake Oahe","Irrigation","2016",1638.2
+"1316","Upper Lake Oahe","Irrigation","2015",1866.1
+"1317","Upper Lake Oahe","Irrigation","2014",1540.1
+"1318","Upper Lake Oahe","Irrigation","2013",2154
+"1319","Upper Lake Oahe","Irrigation","2012",2180.2
+"1320","Upper Lake Oahe","Irrigation","2011",482.1
+"1321","Upper Lake Oahe","Irrigation","2010",1601.9
+"1322","Upper Lake Oahe","Municipal","2019",21.2
+"1323","Upper Lake Oahe","Municipal","2018",20.7
+"1324","Upper Lake Oahe","Municipal","2017",35.3
+"1325","Upper Lake Oahe","Municipal","2016",20.7
+"1326","Upper Lake Oahe","Municipal","2015",27.4
+"1327","Upper Lake Oahe","Municipal","2014",28.9
+"1328","Upper Lake Oahe","Municipal","2013",19.4
+"1329","Upper Lake Oahe","Municipal","2012",30.5
+"1330","Upper Lake Oahe","Municipal","2011",26.2
+"1331","Upper Lake Oahe","Municipal","2010",50.3
+"1332","Upper Lake Oahe","Recreation","2018",2.8
+"1333","Upper Little Missouri","Industrial","2019",6287.9
+"1334","Upper Little Missouri","Industrial","2018",6038.7
+"1335","Upper Little Missouri","Industrial","2017",6864.7
+"1336","Upper Little Missouri","Industrial","2016",6583.1
+"1337","Upper Little Missouri","Industrial","2015",6343.3
+"1338","Upper Little Missouri","Industrial","2014",5854.9
+"1339","Upper Little Missouri","Industrial","2013",5745
+"1340","Upper Little Missouri","Industrial","2012",5575.2
+"1341","Upper Little Missouri","Industrial","2011",5837.7
+"1342","Upper Little Missouri","Industrial","2010",5662.9
+"1343","Upper Little Missouri","Municipal","2019",0.1
+"1344","Upper Little Missouri","Municipal","2018",0.6
+"1345","Upper Little Missouri","Municipal","2017",0.3
+"1346","Upper Little Missouri","Municipal","2016",0.6
+"1347","Upper Little Missouri","Municipal","2015",0
+"1348","Upper Little Missouri","Municipal","2014",24.3
+"1349","Upper Little Missouri","Municipal","2013",22.6
+"1350","Upper Little Missouri","Municipal","2012",25
+"1351","Upper Little Missouri","Municipal","2011",20.1
+"1352","Upper Little Missouri","Municipal","2010",20.2
+"1353","Upper Pembina River","Municipal","2019",33.4
+"1354","Upper Pembina River","Municipal","2018",25.2
+"1355","Upper Pembina River","Municipal","2017",48
+"1356","Upper Pembina River","Municipal","2016",36.6
+"1357","Upper Red","Industrial","2019",563.8
+"1358","Upper Red","Industrial","2018",552.7
+"1359","Upper Red","Industrial","2017",593.8
+"1360","Upper Red","Industrial","2016",753.5
+"1361","Upper Red","Industrial","2015",680.8
+"1362","Upper Red","Industrial","2014",598.7
+"1363","Upper Red","Industrial","2013",577.3
+"1364","Upper Red","Industrial","2012",665.2
+"1365","Upper Red","Industrial","2011",726.9
+"1366","Upper Red","Industrial","2010",619.2
+"1367","Upper Red","Irrigation","2019",0
+"1368","Upper Red","Irrigation","2018",0
+"1369","Upper Red","Irrigation","2017",0
+"1370","Upper Red","Irrigation","2016",0
+"1371","Upper Red","Irrigation","2015",0
+"1372","Upper Red","Irrigation","2014",0
+"1373","Upper Red","Irrigation","2013",0
+"1374","Upper Red","Irrigation","2011",0
+"1375","Upper Red","Irrigation","2010",7.7
+"1376","Upper Red","Municipal","2019",981
+"1377","Upper Red","Municipal","2018",1027.8
+"1378","Upper Red","Municipal","2017",1062.6
+"1379","Upper Red","Municipal","2016",1339.9
+"1380","Upper Red","Municipal","2015",1660.7
+"1381","Upper Red","Municipal","2014",1651.7
+"1382","Upper Red","Municipal","2013",1697.9
+"1383","Upper Red","Municipal","2012",1753
+"1384","Upper Red","Municipal","2011",1692.7
+"1385","Upper Red","Municipal","2010",1676.4
+"1386","Upper Red","Rural Water","2019",0.9
+"1387","Upper Red","Rural Water","2018",1.3
+"1388","Upper Red","Rural Water","2017",1
+"1389","Upper Red","Rural Water","2016",6.9
+"1390","Upper Red","Rural Water","2015",7.2
+"1391","Upper Red","Rural Water","2014",11.4
+"1392","Upper Red","Rural Water","2013",10.6
+"1393","Upper Red","Rural Water","2012",15.7
+"1394","Upper Red","Rural Water","2011",18.6
+"1395","Upper Red","Rural Water","2010",20.1
+"1396","Upper Sheyenne","Industrial","2016",0
+"1397","Upper Sheyenne","Industrial","2015",0
+"1398","Upper Sheyenne","Industrial","2014",0
+"1399","Upper Sheyenne","Irrigation","2019",430.7
+"1400","Upper Sheyenne","Irrigation","2018",691
+"1401","Upper Sheyenne","Irrigation","2017",577.4
+"1402","Upper Sheyenne","Irrigation","2016",228.6
+"1403","Upper Sheyenne","Irrigation","2015",289.3
+"1404","Upper Sheyenne","Irrigation","2014",285.7
+"1405","Upper Sheyenne","Irrigation","2013",370.6
+"1406","Upper Sheyenne","Irrigation","2012",343.2
+"1407","Upper Sheyenne","Irrigation","2011",428.4
+"1408","Upper Sheyenne","Irrigation","2010",681.4
+"1409","Upper Sheyenne","Municipal","2019",342
+"1410","Upper Sheyenne","Municipal","2018",364.5
+"1411","Upper Sheyenne","Municipal","2017",364.8
+"1412","Upper Sheyenne","Municipal","2016",393.6
+"1413","Upper Sheyenne","Municipal","2015",389.3
+"1414","Upper Sheyenne","Municipal","2014",355.9
+"1415","Upper Sheyenne","Municipal","2013",363.2
+"1416","Upper Sheyenne","Municipal","2012",389.4
+"1417","Upper Sheyenne","Municipal","2011",312.5
+"1418","Upper Sheyenne","Municipal","2010",391.9
+"1419","West Missouri Coteau","Irrigation","2019",4.4
+"1420","West Missouri Coteau","Irrigation","2018",39.7
+"1421","West Missouri Coteau","Irrigation","2017",19.7
+"1422","West Missouri Coteau","Irrigation","2016",26.6
+"1423","West Missouri Coteau","Irrigation","2015",0
+"1424","West Missouri Coteau","Irrigation","2014",0
+"1425","West Missouri Coteau","Irrigation","2013",0
+"1426","West Missouri Coteau","Irrigation","2012",0
+"1427","West Missouri Coteau","Irrigation","2011",0
+"1428","West Missouri Coteau","Irrigation","2010",0
+"1429","West Missouri Coteau","Municipal","2019",84.9
+"1430","West Missouri Coteau","Municipal","2018",123.4
+"1431","West Missouri Coteau","Municipal","2017",174
+"1432","West Missouri Coteau","Municipal","2016",155.6
+"1433","West Missouri Coteau","Municipal","2015",149.1
+"1434","West Missouri Coteau","Municipal","2014",142.2
+"1435","West Missouri Coteau","Municipal","2013",138.6
+"1436","West Missouri Coteau","Municipal","2012",15.4
+"1437","West Missouri Coteau","Municipal","2011",122.6
+"1438","West Missouri Coteau","Municipal","2010",111.4
+"1439","Western Wild Rice","Industrial","2019",1476.8
+"1440","Western Wild Rice","Industrial","2018",1489.1
+"1441","Western Wild Rice","Industrial","2017",1433
+"1442","Western Wild Rice","Industrial","2016",1375.9
+"1443","Western Wild Rice","Industrial","2015",1214.6
+"1444","Western Wild Rice","Industrial","2014",1319
+"1445","Western Wild Rice","Industrial","2013",1404.6
+"1446","Western Wild Rice","Industrial","2012",1100
+"1447","Western Wild Rice","Industrial","2011",1305.4
+"1448","Western Wild Rice","Industrial","2010",1009.1
+"1449","Western Wild Rice","Irrigation","2019",7408.6
+"1450","Western Wild Rice","Irrigation","2018",10605.7
+"1451","Western Wild Rice","Irrigation","2017",14844.3
+"1452","Western Wild Rice","Irrigation","2016",13963.7
+"1453","Western Wild Rice","Irrigation","2015",12786.9
+"1454","Western Wild Rice","Irrigation","2014",10247.7
+"1455","Western Wild Rice","Irrigation","2013",14456.5
+"1456","Western Wild Rice","Irrigation","2012",13957.8
+"1457","Western Wild Rice","Irrigation","2011",5697.4
+"1458","Western Wild Rice","Irrigation","2010",8154.5
+"1459","Western Wild Rice","Multiple Use","2019",0
+"1460","Western Wild Rice","Multiple Use","2018",0
+"1461","Western Wild Rice","Multiple Use","2017",0
+"1462","Western Wild Rice","Multiple Use","2016",0
+"1463","Western Wild Rice","Municipal","2019",560.9
+"1464","Western Wild Rice","Municipal","2018",670.8
+"1465","Western Wild Rice","Municipal","2017",668.6
+"1466","Western Wild Rice","Municipal","2016",551
+"1467","Western Wild Rice","Municipal","2015",643.5
+"1468","Western Wild Rice","Municipal","2014",611.3
+"1469","Western Wild Rice","Municipal","2013",621.3
+"1470","Western Wild Rice","Municipal","2012",707.3
+"1471","Western Wild Rice","Municipal","2011",525.4
+"1472","Western Wild Rice","Municipal","2010",519.1
+"1473","Western Wild Rice","Rural Water","2019",748
+"1474","Western Wild Rice","Rural Water","2018",759.8
+"1475","Western Wild Rice","Rural Water","2017",824.1
+"1476","Western Wild Rice","Rural Water","2016",891.3
+"1477","Western Wild Rice","Rural Water","2015",875.8
+"1478","Western Wild Rice","Rural Water","2014",834.3
+"1479","Western Wild Rice","Rural Water","2013",870.8
+"1480","Western Wild Rice","Rural Water","2012",958.4
+"1481","Western Wild Rice","Rural Water","2011",892.6
+"1482","Western Wild Rice","Rural Water","2010",960.5
+"1483","Western Wild Rice","Stock","2010",8.5
+"1484","Willow","Industrial","2015",0.8
+"1485","Willow","Industrial","2014",5.5
+"1486","Willow","Industrial","2013",4.4
+"1487","Willow","Industrial","2012",5.9
+"1488","Willow","Industrial","2011",5.2
+"1489","Willow","Industrial","2010",1.5
+"1490","Willow","Irrigation","2019",204.2
+"1491","Willow","Irrigation","2018",272.6
+"1492","Willow","Irrigation","2017",397.6
+"1493","Willow","Irrigation","2016",231.5
+"1494","Willow","Irrigation","2015",279.1
+"1495","Willow","Irrigation","2014",236.9
+"1496","Willow","Irrigation","2013",228.8
+"1497","Willow","Irrigation","2012",429.7
+"1498","Willow","Irrigation","2011",292.2
+"1499","Willow","Irrigation","2010",203.4
+"1500","Willow","Municipal","2019",1455
+"1501","Willow","Municipal","2018",584.4
+"1502","Willow","Municipal","2017",606.2
+"1503","Willow","Municipal","2016",1207.2
+"1504","Willow","Municipal","2015",1358.8
+"1505","Willow","Municipal","2014",1367
+"1506","Willow","Municipal","2013",1364.5
+"1507","Willow","Municipal","2012",1456.9
+"1508","Willow","Municipal","2011",831.9
+"1509","Willow","Municipal","2010",1377.8
+"1510","Willow","Rural Water","2019",502.6
+"1511","Willow","Rural Water","2018",129.7
+"1512","Willow","Rural Water","2017",130.1
+"1513","Willow","Rural Water","2016",742.3
+"1514","Willow","Rural Water","2015",708.5
+"1515","Willow","Rural Water","2014",703.6
+"1516","Willow","Rural Water","2013",586
+"1517","Willow","Rural Water","2012",587
+"1518","Willow","Rural Water","2011",282.5
+"1519","Willow","Rural Water","2010",554.6
